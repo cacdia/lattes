@@ -1,0 +1,7 @@
+target-version = "py313"
+
+output-format = "full"
+
+[lint]
+
+extend-select = ["UP"]

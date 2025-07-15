@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "usernamehw.errorlens",
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "charliermarsh.ruff",
+        "ms-toolsai.datawrangler",
+        "qwtel.sqlite-viewer"
+    ]
+}
