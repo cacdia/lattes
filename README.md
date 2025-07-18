@@ -1,145 +1,77 @@
-# Python Starter
+# Configuração de Pre-commit com Ruff
 
-## 📋 Conteúdo
+Este guia descreve como configurar o `pre-commit` com o `Ruff` neste repositório. O objetivo é garantir a qualidade e a formatação do código Python de forma automática antes de cada commit, usando uma ferramenta moderna e extremamente rápida.
 
-- [Pré-requisitos](#pré-requisitos)
-- [Primeiros Passos](#primeiros-passos)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Desenvolvimento](#desenvolvimento)
-- [Solução de Problemas no Windows](#solução-de-problemas-no-windows)
+## O que é o Pre-commit?
 
-## 🔧 Pré-requisitos
+`pre-commit` é um framework para gerenciar e manter hooks de Git multi-linguagem. Antes que seu código seja enviado com um `git commit`, ele executa scripts pré-configurados (hooks) para verificar e corrigir seu código, garantindo que os padrões do projeto sejam seguidos.
 
-Certifique-se de instalar os seguintes programas antes de começar:
+## O que é o Ruff?
 
-- **Visual Studio Code**
-  [Download VSCode](https://code.visualstudio.com/)
+`Ruff` é um linter e formatador de código Python extremamente rápido, escrito em Rust. Ele pode substituir dezenas de ferramentas como Flake8, isort, pyupgrade e Black.
 
-- **Git**
-  [Download Git](https://git-scm.com/downloads)
+---
 
-- **uv**
+## Guia de Instalação e Configuração
 
-  Instale utilizando o comando adequado ao seu sistema operacional:
+Siga os passos abaixo para configurar o ambiente de desenvolvimento.
 
-  ```bash
-  # Windows (PowerShell)
-  powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+### Passo 1: Instalar a ferramenta `pre-commit`
 
-  # macOS/Linux
-  curl -LsSf https://astral.sh/uv/install.sh | sh
-  ```
+Primeiro, você precisa ter o pacote `pre-commit` instalado no seu ambiente Python.
 
-## 🚀 Primeiros Passos
+* **Usando `pip`:**
 
-Siga os passos abaixo para configurar rapidamente o projeto:
+    ```bash
+    pip install pre-commit
+    ```
 
-### 1. Clone o repositório
+* **Usando `uv` (recomendado para este projeto):**
+
+    ```bash
+    uv pip install pre-commit
+    ```
+
+Para verificar se a instalação foi bem-sucedida, rode:
 
 ```bash
-git clone https://github.com/thiag0bezerra/python-starter.git
-cd python-starter
+pre-commit --version
 ```
 
-### 2. Configure o ambiente virtual
 
-Crie o ambiente virtual e instale automaticamente todas as dependências:
+### Passo 2: Criar o arquivo de configuração `.pre-commit-config.yaml`
+
+O `pre-commit` é configurado por um arquivo na raiz do repositório.
+
+
+
+* **Crie um arquivo chamado `.pre-commit-config.yaml` na raiz do seu projeto.**
+
+  Copie e cole o seguinte conteúdo dentro dele:
+
+    ```yaml
+    # .pre-commit-config.yaml
+    repos:
+    - repo: https://github.com/astral-sh/ruff-pre-commit
+    # Ruff version.
+    rev: v0.12.4
+    hooks:
+      # Run the linter.
+      - id: ruff-check
+        args: [ --fix ]
+      # Run the formatter.
+      - id: ruff-format
+    ```
+
+### Passo 3: Instalar os hooks no Git
+
+O último passo é instalar os hooks no seu repositório Git local. Este comando lê o seu arquivo de configuração e configura o script que será executado antes de cada commit.
+
+Execute o seguinte comando na raiz do projeto:
 
 ```bash
-uv sync
+pre-commit install
 ```
+Você deverá ver a mensagem: `pre-commit installed at .git/hooks/pre-commit`.
 
-### 3. Configure o VSCode
-
-Abra o projeto no Visual Studio Code:
-
-```bash
-code .
-```
-
-#### Instale as extensões recomendadas
-
-Ao abrir o projeto pela primeira vez:
-
-- Uma notificação aparecerá sugerindo a instalação das extensões recomendadas.
-- Clique em **Install All** ou em **Show Recommendations**.
-- Alternativamente, pressione `Ctrl+Shift+X` (ou `Cmd+Shift+X` no macOS) e digite `@recommended` na barra de pesquisa.
-
-As extensões recomendadas para este projeto são:
-- **Error Lens** (usernamehw.errorlens)
-- **Python** (ms-python.python)
-- **Ruff** (charliermarsh.ruff)
-
-#### Selecione o interpretador Python correto
-
-1. Pressione `Ctrl+Shift+P` (ou `Cmd+Shift+P` no macOS).
-2. Digite **Python: Select Interpreter**.
-3. Escolha o interpretador Python referente ao ambiente virtual criado (`.venv`), geralmente exibido como:
-   `"Python 3.12.10 ('.venv':venv)"`.
-
-### 4. Execute o projeto
-
-```bash
-uv run main.py
-```
-
-Para executar diretamente pelo Python:
-
-```bash
-python main.py "<frase>"
-```
-
-## 📁 Estrutura do Projeto
-
-```
-python-starter/
-├── main.py              # Ponto de entrada do programa
-├── pyproject.toml       # Metadados e dependências do projeto
-├── ruff.toml            # Configurações específicas do Ruff
-├── src/                 # Diretório de código fonte
-│   ├── __init__.py      # Torna o diretório um pacote (arquivo vazio)
-│   └── vaca.py          # Função vaca_diz para exibir frase e arte ASCII de vaca
-└── .vscode/             # Configurações otimizadas para VSCode
-    ├── extensions.json  # Extensões recomendadas
-    ├── settings.json    # Configurações específicas do projeto
-    └── tasks.json       # Tarefas configuradas para o projeto
-```
-
-## 💻 Desenvolvimento
-
-### Comandos essenciais
-
-Use os comandos abaixo para facilitar o desenvolvimento do projeto:
-
-```bash
-# Executar o código
-uv run main.py        # recomendado
-
-# Formatar código com Ruff
-uv run ruff format . --check
-
-# Verificar e corrigir lint com Ruff
-uv run ruff check . --fix
-
-# Adicionar uma nova dependência
-uv add nome-do-pacote
-
-# Sincronizar dependências após alterações no pyproject.toml
-uv sync
-```
-
-Também é possível executar as tarefas configuradas pelo VS Code:
-
-1. Pressione `Ctrl+Shift+P` (ou `Cmd+Shift+P` no macOS).
-2. Digite **Tasks: Run Task**.
-3. Selecione uma das tarefas disponíveis:
-   - **Formatar com Ruff**: Verifica a formatação do código
-   - **Lint com Ruff**: Executa o linter e corrige problemas automaticamente
-
-## 🪟 Solução de Problemas no Windows
-
-Caso enfrente problemas relacionados a permissões no PowerShell, execute:
-
-```powershell
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
+Pronto! A partir de agora, o pre-commit será executado automaticamente a cada git commit, garantindo a qualidade e o padrão do seu código.
