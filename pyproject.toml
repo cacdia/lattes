@@ -9,5 +9,6 @@ dependencies = []
 [dependency-groups]
 dev = [
     "jupyter",
+    "pre-commit>=4.2.0",
     "ruff",
 ]
