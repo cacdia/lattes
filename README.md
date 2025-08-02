@@ -13,3 +13,11 @@ Este projeto de Ciência de Dados tem como objetivo principal extrair, limpar e 
 
 ### Coleta de Dados
 Utilizamos a biblioteca Playwright para navegar e interagir com a plataforma, permitindo a captura de todos os currículos de interesse. Posteriormente, realizamos um parsing do HTML coletado para extrair as seções relevantes e preparar os dados para análise.
+
+## Exemplo de execução
+
+```
+# Especificando diretório de saída personalizado
+uv run scripts/download_profile.py --input data/professores_ci.csv --output meu_diretorio
+
+```
