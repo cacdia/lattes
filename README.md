@@ -4,10 +4,10 @@
 Este projeto de Ciência de Dados tem como objetivo principal extrair, limpar e analisar dados provenientes dos currículos da Plataforma Lattes. A Plataforma Lattes, mantida pelo CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico), é uma base de dados rica em informações sobre a produção acadêmica, profissional e intelectual de pesquisadores brasileiros.
 
 ## Equipe
-- Sarah Fernanda Calixto de Araújo
-- Luiz Carlos Veloso de Araujo Lima Neto
-- Sofia Pontes Leitão de Lima
-- Cauã Henrique Formiga de Lacerda
+- Sarah Fernanda Calixto de Araújo - 20240011267
+- Luiz Carlos Veloso de Araujo Lima Neto - 20240102334
+- Sofia Pontes Leitão de Lima - 20240011285
+- Cauã Henrique Formiga de Lacerda - 20240011089
 
 ## Metodologia
 
