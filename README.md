@@ -23,9 +23,11 @@ Este projeto de Ciência de Dados tem como objetivo principal extrair, limpar e 
 
 ## 🔬 Metodologia
 
-### Coleta de Dados
+### 1\. Coleta de Dados (Scraping)
 Utilizamos a biblioteca Playwright para navegar e interagir com a plataforma, permitindo a captura de todos os currículos de interesse. Posteriormente, realizamos um parsing do HTML coletado para extrair as seções relevantes e preparar os dados para análise.
 
+### 2\. Extração e Estruturação (Parsing)
+Após o download, um segundo script utiliza as bibliotecas BeautifulSoup e Pandas para fazer o parsing do conteúdo HTML. Ele extrai informações-chave como dados básicos (nome, resumo), formação acadêmica, projetos de pesquisa e redes de colaboração (coautores e integrantes de projetos). Os dados são então consolidados e exportados em formatos estruturados como CSV ou JSON, prontos para a análise.
 
 ## 🔧 Pré-requisitos
 
@@ -91,7 +93,7 @@ Ao abrir o projeto pela primeira vez:
 
 ### 4\. Execute o projeto
 
-O principal script do projeto realiza o download dos currículos Lattes listados em um arquivo CSV.
+O projeto funciona em duas etapas principais: primeiro baixar os currículos, depois processá-los.
 
 ```bash
 # Comando principal para executar o download
@@ -107,22 +109,42 @@ Você também pode especificar onde os arquivos HTML dos currículos serão salv
 uv run scripts/download_profile.py --input data/professores_ci.csv --output meu_diretorio
 ```
 
+Após baixar os arquivos HTML, utilize o script parse_lattes.py para processá-los e gerar um arquivo consolidado com os dados extraídos.
+
+O formato de saída (CSV ou JSON) é definido pela extensão do arquivo que você especificar em --output.
+
+#### Exemplo para saída em CSV:
+
+```bash
+# Processa os HTMLs da pasta 'meus_curriculos' e salva os dados em um arquivo CSV
+uv run scripts/parse_profiles.py --input meu_diretorio --output data/professores.csv
+```
+
+#### Exemplo para saída em JSON:
+
+```bash
+# Processa os HTMLs e salva os dados em formato JSON
+uv run scripts/parse_profiles.py --input meu_diretorio --output data/professores.json
+```
+
 ## 📁 Estrutura do Projeto
 
 ```
 lattes/
-├── .github/              # Arquivos de configuração do GitHub
+├── .github/
 ├── data/
-│   └── professores_ci.csv  # Arquivo de entrada com os dados dos professores
+│   └── professores_ci.csv    # Arquivo de entrada com os dados dos professores
 ├── scripts/
-│   └── download_profile.py # Script principal para baixar os currículos
+│   ├── download_profile.py   # Script para baixar os currículos em HTML
+│   └── parse_profiles.py       # Script para extrair dados dos arquivos HTML
 ├── src/
-│   └── __init__.py         # Define o diretório como um pacote Python
-├── .vscode/              # Configurações recomendadas para o VS Code
-├── .gitignore            # Arquivos e pastas a serem ignorados pelo Git
-├── pyproject.toml        # Metadados e dependências do projeto (gerenciado pelo uv)
-├── ruff.toml             # Configurações do linter e formatador Ruff
-└── uv.lock               # Arquivo de lock para garantir instalações consistentes
+│   └── __init__.py
+├── .vscode/
+├── .gitignore
+├── pyproject.toml            # Metadados e dependências do projeto
+├── README.md                 # Este arquivo
+├── ruff.toml                 # Configurações do linter e formatador
+└── uv.lock                   # Arquivo de lock para instalações consistentes
 ```
 
 
@@ -135,6 +157,3 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 -----
-
-
-
