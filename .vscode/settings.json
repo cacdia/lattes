@@ -19,6 +19,7 @@
   // Configurações do editor para Python
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true,
   },
   // Configurações para Jupyter
   "jupyter.askForKernelRestart": false,
