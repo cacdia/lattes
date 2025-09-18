@@ -852,6 +852,7 @@ def main() -> None:
 
     try:
         data = [asdict(prof) for prof in extracted_data]
+        data.sort(key=lambda x: x["identificacao"]["nome"])
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
         logging.info(
