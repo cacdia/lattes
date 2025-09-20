@@ -1,0 +1,624 @@
+{
+  "root": {
+    "name": "Yuri de Almeida Malheiros Barbosa",
+    "total_collaborations": 232,
+    "unique_collaborators": 46,
+    "node_id": "6d81b32b-2cc0-4ea2-b0f5-fa93e51d0188"
+  },
+  "heap": [
+    {
+      "index": 0,
+      "name": "Yuri de Almeida Malheiros Barbosa",
+      "collaborations": 232,
+      "node_id": "6d81b32b-2cc0-4ea2-b0f5-fa93e51d0188",
+      "is_root": true
+    },
+    {
+      "index": 1,
+      "name": "Thaís Gaudencio do Rêgo",
+      "collaborations": 37,
+      "node_id": "882e998d-20d6-4b25-b946-070777d2bb07",
+      "is_root": false,
+      "parent_index": 0
+    },
+    {
+      "index": 2,
+      "name": "Lincoln David Nery e Silva",
+      "collaborations": 24,
+      "node_id": "6c2ca6f2-78d6-4aff-8b07-4bfce75cceef",
+      "is_root": false,
+      "parent_index": 0
+    },
+    {
+      "index": 3,
+      "name": "Leonardo Vidal Batista",
+      "collaborations": 22,
+      "node_id": "4bc35405-fa21-4380-9eab-f7b1b8d95c7c",
+      "is_root": false,
+      "parent_index": 1
+    },
+    {
+      "index": 4,
+      "name": "Alvaro Francisco de Castro Medeiros",
+      "collaborations": 14,
+      "node_id": "c0cbe926-488d-44d2-9ce4-431038bda978",
+      "is_root": false,
+      "parent_index": 1
+    },
+    {
+      "index": 5,
+      "name": "Alan Kelon Oliveira de Moraes",
+      "collaborations": 13,
+      "node_id": "9fed5b98-c821-43dd-9670-c25b3a4aca09",
+      "is_root": false,
+      "parent_index": 2
+    },
+    {
+      "index": 6,
+      "name": "Verônica Maria Lima Silva",
+      "collaborations": 11,
+      "node_id": "6ce29914-b18b-4a97-9e9a-c65142a99615",
+      "is_root": false,
+      "parent_index": 2
+    },
+    {
+      "index": 7,
+      "name": "Danielle Rousy Dias Ricarte",
+      "collaborations": 10,
+      "node_id": "d1c0e1d5-5dc5-42ad-ba03-5f2f1b95e89d",
+      "is_root": false,
+      "parent_index": 3
+    },
+    {
+      "index": 8,
+      "name": "Leandro Carlos de Souza",
+      "collaborations": 7,
+      "node_id": "62075a69-f556-448c-9376-c1375a6aee33",
+      "is_root": false,
+      "parent_index": 3
+    },
+    {
+      "index": 9,
+      "name": "Yuska Paola Costa Aguiar",
+      "collaborations": 6,
+      "node_id": "98bdaf76-f6dd-4d24-bd86-0eb51382d5df",
+      "is_root": false,
+      "parent_index": 4
+    },
+    {
+      "index": 10,
+      "name": "Alisson Vasconcelos de Brito",
+      "collaborations": 5,
+      "node_id": "ef16da81-5a64-40dc-a316-4b65ac1f969b",
+      "is_root": false,
+      "parent_index": 4
+    },
+    {
+      "index": 11,
+      "name": "Aparecido Jesuino de Souza",
+      "collaborations": 5,
+      "node_id": "c5add21f-2a5d-4192-930f-52cd9a8d8705",
+      "is_root": false,
+      "parent_index": 5
+    },
+    {
+      "index": 12,
+      "name": "Carlos Eduardo Coelho Freire Batista",
+      "collaborations": 5,
+      "node_id": "a0cf835a-c5d1-4789-97f5-8d58abc46b37",
+      "is_root": false,
+      "parent_index": 5
+    },
+    {
+      "index": 13,
+      "name": "Clauirton de Albuquerque Siebra",
+      "collaborations": 5,
+      "node_id": "64e6d75f-32b3-4d46-94f8-4a13de273032",
+      "is_root": false,
+      "parent_index": 6
+    },
+    {
+      "index": 14,
+      "name": "Glêdson Elias da Silveira",
+      "collaborations": 5,
+      "node_id": "217fcca5-74ef-4dc3-a154-3bf47dd1b75b",
+      "is_root": false,
+      "parent_index": 6
+    },
+    {
+      "index": 15,
+      "name": "Gustavo Charles Peixoto de Oliveira",
+      "collaborations": 5,
+      "node_id": "714384ac-1087-47df-b39d-62aec0305e6d",
+      "is_root": false,
+      "parent_index": 7
+    },
+    {
+      "index": 16,
+      "name": "Liliane dos Santos Machado",
+      "collaborations": 5,
+      "node_id": "59720336-5f00-4bd8-832e-3fa3dfe618e7",
+      "is_root": false,
+      "parent_index": 7
+    },
+    {
+      "index": 17,
+      "name": "Adriana Carla Damasceno",
+      "collaborations": 4,
+      "node_id": "dbe2c3f2-8cd8-4c97-99b2-edc748cceb7d",
+      "is_root": false,
+      "parent_index": 8
+    },
+    {
+      "index": 18,
+      "name": "Gilberto Farias de Sousa Filho",
+      "collaborations": 4,
+      "node_id": "4ca2d3a8-f601-4b52-a862-bed6cb9e93fb",
+      "is_root": false,
+      "parent_index": 8
+    },
+    {
+      "index": 19,
+      "name": "José Antônio Gomes de Lima",
+      "collaborations": 4,
+      "node_id": "0053b721-a541-4baa-94cf-02741f9fd2bd",
+      "is_root": false,
+      "parent_index": 9
+    },
+    {
+      "index": 20,
+      "name": "Moises Dantas dos Santos",
+      "collaborations": 4,
+      "node_id": "2246ff6d-b723-4974-aab5-76f1ca349132",
+      "is_root": false,
+      "parent_index": 9
+    },
+    {
+      "index": 21,
+      "name": "Ed Porto Bezerra",
+      "collaborations": 3,
+      "node_id": "7e76b79a-0784-4763-bb7f-c14fab5eedfc",
+      "is_root": false,
+      "parent_index": 10
+    },
+    {
+      "index": 22,
+      "name": "Hamilton Soares da Silva",
+      "collaborations": 3,
+      "node_id": "2949360d-f484-49e4-b137-a3e1bde50e4f",
+      "is_root": false,
+      "parent_index": 10
+    },
+    {
+      "index": 23,
+      "name": "Tiago Maritan Ugulino de Araújo",
+      "collaborations": 3,
+      "node_id": "3df6d663-1cd3-4bb6-bc37-e63a401c4a1d",
+      "is_root": false,
+      "parent_index": 11
+    },
+    {
+      "index": 24,
+      "name": "Andréa Vanessa Rocha",
+      "collaborations": 2,
+      "node_id": "19566345-9b16-4079-b8d4-1dd8f91a2dc0",
+      "is_root": false,
+      "parent_index": 11
+    },
+    {
+      "index": 25,
+      "name": "Derzu Omaia",
+      "collaborations": 2,
+      "node_id": "a023562e-60a6-4ea4-82e3-bd14ce2980db",
+      "is_root": false,
+      "parent_index": 12
+    },
+    {
+      "index": 26,
+      "name": "Fernando Menezes Matos",
+      "collaborations": 2,
+      "node_id": "48d5dd3f-b55c-4acc-8992-40b63b4d04b7",
+      "is_root": false,
+      "parent_index": 12
+    },
+    {
+      "index": 27,
+      "name": "Gustavo Henrique Matos Bezerra Motta",
+      "collaborations": 2,
+      "node_id": "2f62e7db-ba6b-4136-baf1-ded35d46c07d",
+      "is_root": false,
+      "parent_index": 13
+    },
+    {
+      "index": 28,
+      "name": "Tiago Pereira do Nascimento",
+      "collaborations": 2,
+      "node_id": "f0449e3e-a51b-487c-b5b3-e526ad7f19f9",
+      "is_root": false,
+      "parent_index": 13
+    },
+    {
+      "index": 29,
+      "name": "Andrei de Araujo Formiga",
+      "collaborations": 1,
+      "node_id": "408e8278-7dd4-4016-9bd0-bbff07ee8e9b",
+      "is_root": false,
+      "parent_index": 14
+    },
+    {
+      "index": 30,
+      "name": "Daniela Coelho Batista Guedes Pereira",
+      "collaborations": 1,
+      "node_id": "51f29ee9-54aa-41ff-b375-e17f001dde5b",
+      "is_root": false,
+      "parent_index": 14
+    },
+    {
+      "index": 31,
+      "name": "Elizabet Maria Spohr de Medeiros",
+      "collaborations": 1,
+      "node_id": "e4f3f7e4-5cc9-4342-8279-a6e12b59ad33",
+      "is_root": false,
+      "parent_index": 15
+    },
+    {
+      "index": 32,
+      "name": "Ewerton Monteiro Salvador",
+      "collaborations": 1,
+      "node_id": "95273eb7-4667-43dd-8f80-6eef89c8f282",
+      "is_root": false,
+      "parent_index": 15
+    },
+    {
+      "index": 33,
+      "name": "Felipe Antonio Garcia Moreno",
+      "collaborations": 1,
+      "node_id": "21bbfe29-66d6-4228-af86-f9702fea9b38",
+      "is_root": false,
+      "parent_index": 16
+    },
+    {
+      "index": 34,
+      "name": "Giorgia de Oliveira Mattos",
+      "collaborations": 1,
+      "node_id": "d23ccc4b-f5bd-439d-82a3-09fca7d4fa48",
+      "is_root": false,
+      "parent_index": 16
+    },
+    {
+      "index": 35,
+      "name": "Iguatemi Eduardo da Fonseca",
+      "collaborations": 1,
+      "node_id": "29fbbf28-e628-430f-a757-cc0c3d193ba8",
+      "is_root": false,
+      "parent_index": 17
+    },
+    {
+      "index": 36,
+      "name": "Jairo Rocha de Faria",
+      "collaborations": 1,
+      "node_id": "50a08dd4-7b6e-46d9-9d71-15e71d9e22ee",
+      "is_root": false,
+      "parent_index": 17
+    },
+    {
+      "index": 37,
+      "name": "Josilene Aires Moreira",
+      "collaborations": 1,
+      "node_id": "95694db2-4b40-4560-a8cf-0359272c3aa3",
+      "is_root": false,
+      "parent_index": 18
+    },
+    {
+      "index": 38,
+      "name": "Kely Diana Villacorta Villacorta",
+      "collaborations": 1,
+      "node_id": "114358bf-4451-450d-8004-909054eb826c",
+      "is_root": false,
+      "parent_index": 18
+    },
+    {
+      "index": 39,
+      "name": "Luciano Sales Barros",
+      "collaborations": 1,
+      "node_id": "3b89fdfe-1dca-42bb-9c4c-bc1be41de7ad",
+      "is_root": false,
+      "parent_index": 19
+    },
+    {
+      "index": 40,
+      "name": "Lucidio dos Anjos Formiga Cabral",
+      "collaborations": 1,
+      "node_id": "e679779a-cf2a-4098-a198-3b1d4b9e03d1",
+      "is_root": false,
+      "parent_index": 19
+    },
+    {
+      "index": 41,
+      "name": "Marcelo Iury de Sousa Oliveira",
+      "collaborations": 1,
+      "node_id": "777e7739-860a-4db2-88e4-3a08578cc377",
+      "is_root": false,
+      "parent_index": 20
+    },
+    {
+      "index": 42,
+      "name": "Mardson Freitas de Amorim",
+      "collaborations": 1,
+      "node_id": "c496dbd7-1cb0-4482-ba8d-34d6fe894c33",
+      "is_root": false,
+      "parent_index": 20
+    },
+    {
+      "index": 43,
+      "name": "Ruy Alberto Pisani Altafim",
+      "collaborations": 1,
+      "node_id": "d5871193-3574-4fec-b411-cdfe6568633d",
+      "is_root": false,
+      "parent_index": 21
+    },
+    {
+      "index": 44,
+      "name": "Sérgio de Carvalho Bezerra",
+      "collaborations": 1,
+      "node_id": "5eabafc7-2ea4-44a6-aed0-485ab8dcd955",
+      "is_root": false,
+      "parent_index": 21
+    },
+    {
+      "index": 45,
+      "name": "Teobaldo Leite Bulhões Júnior",
+      "collaborations": 1,
+      "node_id": "07d51d34-d726-4d49-9f2e-13626b32880a",
+      "is_root": false,
+      "parent_index": 22
+    },
+    {
+      "index": 46,
+      "name": "Valdecir Becker",
+      "collaborations": 1,
+      "node_id": "0fc876c5-5a04-4625-9c7e-5b7e286d6404",
+      "is_root": false,
+      "parent_index": 22
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Thaís Gaudencio do Rêgo",
+      "collaborations_with_yuri": 37,
+      "node_id": "882e998d-20d6-4b25-b946-070777d2bb07"
+    },
+    {
+      "name": "Lincoln David Nery e Silva",
+      "collaborations_with_yuri": 24,
+      "node_id": "6c2ca6f2-78d6-4aff-8b07-4bfce75cceef"
+    },
+    {
+      "name": "Leonardo Vidal Batista",
+      "collaborations_with_yuri": 22,
+      "node_id": "4bc35405-fa21-4380-9eab-f7b1b8d95c7c"
+    },
+    {
+      "name": "Alvaro Francisco de Castro Medeiros",
+      "collaborations_with_yuri": 14,
+      "node_id": "c0cbe926-488d-44d2-9ce4-431038bda978"
+    },
+    {
+      "name": "Alan Kelon Oliveira de Moraes",
+      "collaborations_with_yuri": 13,
+      "node_id": "9fed5b98-c821-43dd-9670-c25b3a4aca09"
+    },
+    {
+      "name": "Verônica Maria Lima Silva",
+      "collaborations_with_yuri": 11,
+      "node_id": "6ce29914-b18b-4a97-9e9a-c65142a99615"
+    },
+    {
+      "name": "Danielle Rousy Dias Ricarte",
+      "collaborations_with_yuri": 10,
+      "node_id": "d1c0e1d5-5dc5-42ad-ba03-5f2f1b95e89d"
+    },
+    {
+      "name": "Leandro Carlos de Souza",
+      "collaborations_with_yuri": 7,
+      "node_id": "62075a69-f556-448c-9376-c1375a6aee33"
+    },
+    {
+      "name": "Yuska Paola Costa Aguiar",
+      "collaborations_with_yuri": 6,
+      "node_id": "98bdaf76-f6dd-4d24-bd86-0eb51382d5df"
+    },
+    {
+      "name": "Alisson Vasconcelos de Brito",
+      "collaborations_with_yuri": 5,
+      "node_id": "ef16da81-5a64-40dc-a316-4b65ac1f969b"
+    },
+    {
+      "name": "Aparecido Jesuino de Souza",
+      "collaborations_with_yuri": 5,
+      "node_id": "c5add21f-2a5d-4192-930f-52cd9a8d8705"
+    },
+    {
+      "name": "Carlos Eduardo Coelho Freire Batista",
+      "collaborations_with_yuri": 5,
+      "node_id": "a0cf835a-c5d1-4789-97f5-8d58abc46b37"
+    },
+    {
+      "name": "Clauirton de Albuquerque Siebra",
+      "collaborations_with_yuri": 5,
+      "node_id": "64e6d75f-32b3-4d46-94f8-4a13de273032"
+    },
+    {
+      "name": "Glêdson Elias da Silveira",
+      "collaborations_with_yuri": 5,
+      "node_id": "217fcca5-74ef-4dc3-a154-3bf47dd1b75b"
+    },
+    {
+      "name": "Gustavo Charles Peixoto de Oliveira",
+      "collaborations_with_yuri": 5,
+      "node_id": "714384ac-1087-47df-b39d-62aec0305e6d"
+    },
+    {
+      "name": "Liliane dos Santos Machado",
+      "collaborations_with_yuri": 5,
+      "node_id": "59720336-5f00-4bd8-832e-3fa3dfe618e7"
+    },
+    {
+      "name": "Adriana Carla Damasceno",
+      "collaborations_with_yuri": 4,
+      "node_id": "dbe2c3f2-8cd8-4c97-99b2-edc748cceb7d"
+    },
+    {
+      "name": "Gilberto Farias de Sousa Filho",
+      "collaborations_with_yuri": 4,
+      "node_id": "4ca2d3a8-f601-4b52-a862-bed6cb9e93fb"
+    },
+    {
+      "name": "José Antônio Gomes de Lima",
+      "collaborations_with_yuri": 4,
+      "node_id": "0053b721-a541-4baa-94cf-02741f9fd2bd"
+    },
+    {
+      "name": "Moises Dantas dos Santos",
+      "collaborations_with_yuri": 4,
+      "node_id": "2246ff6d-b723-4974-aab5-76f1ca349132"
+    },
+    {
+      "name": "Ed Porto Bezerra",
+      "collaborations_with_yuri": 3,
+      "node_id": "7e76b79a-0784-4763-bb7f-c14fab5eedfc"
+    },
+    {
+      "name": "Hamilton Soares da Silva",
+      "collaborations_with_yuri": 3,
+      "node_id": "2949360d-f484-49e4-b137-a3e1bde50e4f"
+    },
+    {
+      "name": "Tiago Maritan Ugulino de Araújo",
+      "collaborations_with_yuri": 3,
+      "node_id": "3df6d663-1cd3-4bb6-bc37-e63a401c4a1d"
+    },
+    {
+      "name": "Andréa Vanessa Rocha",
+      "collaborations_with_yuri": 2,
+      "node_id": "19566345-9b16-4079-b8d4-1dd8f91a2dc0"
+    },
+    {
+      "name": "Derzu Omaia",
+      "collaborations_with_yuri": 2,
+      "node_id": "a023562e-60a6-4ea4-82e3-bd14ce2980db"
+    },
+    {
+      "name": "Fernando Menezes Matos",
+      "collaborations_with_yuri": 2,
+      "node_id": "48d5dd3f-b55c-4acc-8992-40b63b4d04b7"
+    },
+    {
+      "name": "Gustavo Henrique Matos Bezerra Motta",
+      "collaborations_with_yuri": 2,
+      "node_id": "2f62e7db-ba6b-4136-baf1-ded35d46c07d"
+    },
+    {
+      "name": "Tiago Pereira do Nascimento",
+      "collaborations_with_yuri": 2,
+      "node_id": "f0449e3e-a51b-487c-b5b3-e526ad7f19f9"
+    },
+    {
+      "name": "Andrei de Araujo Formiga",
+      "collaborations_with_yuri": 1,
+      "node_id": "408e8278-7dd4-4016-9bd0-bbff07ee8e9b"
+    },
+    {
+      "name": "Daniela Coelho Batista Guedes Pereira",
+      "collaborations_with_yuri": 1,
+      "node_id": "51f29ee9-54aa-41ff-b375-e17f001dde5b"
+    },
+    {
+      "name": "Elizabet Maria Spohr de Medeiros",
+      "collaborations_with_yuri": 1,
+      "node_id": "e4f3f7e4-5cc9-4342-8279-a6e12b59ad33"
+    },
+    {
+      "name": "Ewerton Monteiro Salvador",
+      "collaborations_with_yuri": 1,
+      "node_id": "95273eb7-4667-43dd-8f80-6eef89c8f282"
+    },
+    {
+      "name": "Felipe Antonio Garcia Moreno",
+      "collaborations_with_yuri": 1,
+      "node_id": "21bbfe29-66d6-4228-af86-f9702fea9b38"
+    },
+    {
+      "name": "Giorgia de Oliveira Mattos",
+      "collaborations_with_yuri": 1,
+      "node_id": "d23ccc4b-f5bd-439d-82a3-09fca7d4fa48"
+    },
+    {
+      "name": "Iguatemi Eduardo da Fonseca",
+      "collaborations_with_yuri": 1,
+      "node_id": "29fbbf28-e628-430f-a757-cc0c3d193ba8"
+    },
+    {
+      "name": "Jairo Rocha de Faria",
+      "collaborations_with_yuri": 1,
+      "node_id": "50a08dd4-7b6e-46d9-9d71-15e71d9e22ee"
+    },
+    {
+      "name": "Josilene Aires Moreira",
+      "collaborations_with_yuri": 1,
+      "node_id": "95694db2-4b40-4560-a8cf-0359272c3aa3"
+    },
+    {
+      "name": "Kely Diana Villacorta Villacorta",
+      "collaborations_with_yuri": 1,
+      "node_id": "114358bf-4451-450d-8004-909054eb826c"
+    },
+    {
+      "name": "Luciano Sales Barros",
+      "collaborations_with_yuri": 1,
+      "node_id": "3b89fdfe-1dca-42bb-9c4c-bc1be41de7ad"
+    },
+    {
+      "name": "Lucidio dos Anjos Formiga Cabral",
+      "collaborations_with_yuri": 1,
+      "node_id": "e679779a-cf2a-4098-a198-3b1d4b9e03d1"
+    },
+    {
+      "name": "Marcelo Iury de Sousa Oliveira",
+      "collaborations_with_yuri": 1,
+      "node_id": "777e7739-860a-4db2-88e4-3a08578cc377"
+    },
+    {
+      "name": "Mardson Freitas de Amorim",
+      "collaborations_with_yuri": 1,
+      "node_id": "c496dbd7-1cb0-4482-ba8d-34d6fe894c33"
+    },
+    {
+      "name": "Ruy Alberto Pisani Altafim",
+      "collaborations_with_yuri": 1,
+      "node_id": "d5871193-3574-4fec-b411-cdfe6568633d"
+    },
+    {
+      "name": "Sérgio de Carvalho Bezerra",
+      "collaborations_with_yuri": 1,
+      "node_id": "5eabafc7-2ea4-44a6-aed0-485ab8dcd955"
+    },
+    {
+      "name": "Teobaldo Leite Bulhões Júnior",
+      "collaborations_with_yuri": 1,
+      "node_id": "07d51d34-d726-4d49-9f2e-13626b32880a"
+    },
+    {
+      "name": "Valdecir Becker",
+      "collaborations_with_yuri": 1,
+      "node_id": "0fc876c5-5a04-4625-9c7e-5b7e286d6404"
+    }
+  ],
+  "properties": {
+    "total_nodes": 47,
+    "max_collaborations": 37,
+    "min_collaborations": 1,
+    "avg_collaborations": 5.043478260869565,
+    "heap_height": 6
+  }
+}
