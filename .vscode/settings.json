@@ -55,7 +55,12 @@
   "editor.hover.enabled": true,
   "editor.acceptSuggestionOnEnter": "smart",
   "chat.agent.enabled": true,
-  "chat.mcp.discovery.enabled": true,
+  "chat.mcp.discovery.enabled": {
+    "claude-desktop": true,
+    "windsurf": true,
+    "cursor-global": true,
+    "cursor-workspace": true
+  },
   "github.copilot.chat.agent.runTasks": true,
   "chat.agent.maxRequests": 100,
   "github.copilot.chat.codesearch.enabled": true,
