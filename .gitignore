@@ -177,3 +177,5 @@ pyrightconfig.json
 
 # Ignora o diretorio que armazena os HTMLs baixados
 meu_diretorio/
+
+cluster_*
