@@ -6,10 +6,14 @@ readme = "README.md"
 requires-python = "==3.13.*"
 dependencies = [
     "anywidget>=0.9.18",
+    "kneed>=0.8.5",
     "lxml>=6.0.0",
+    "nltk>=3.9.1",
     "pandas>=2.3.1",
     "playwright>=1.54.0",
+    "plotly>=6.3.0",
     "pyvis>=0.3.2",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
 ]
 
