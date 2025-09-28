@@ -194,16 +194,25 @@ Comece pelo [`notebook_relatorio.ipynb`](notebook/notebook_relatorio.ipynb) que 
 - **Visualização interativa com Plotly**
 - **Análise específica dos laboratórios ARIA e LAVID**
 
-### 4. Clustering Temático
-- **Agrupamento de publicações por similaridade de títulos**
-- **Uso de TF-IDF e K-Means com validação por múltiplas métricas**
-- **Visualização 2D e 3D dos clusters com PCA**
-- **Identificação de áreas temáticas de pesquisa**
+### 4. Análise de Redes de Coautoria entre Docentes do CI
+- **Construção de grafo não direcionado com nós = pesquisadores**
+- **Arestas ponderadas pelo número de publicações em coautoria**
+- **Cálculo de métricas de centralidade (betweenness, eigenvector, grau)**
+- **Filtragem para coautorias internas (apenas entre docentes do CI)**
+- **Visualização interativa com layout forçado e cores por centralidade**
+- **Análise específica de subrede ARIA/LAVID com mapeamento por laboratório**
 
-### 5. Análise Temporal
-- **Evolução da produção científica ao longo dos anos**
-- **Padrões de colaboração por período**
-- **Tendências por laboratório e área de pesquisa**
+### 5. Clustering Temático de Títulos de Publicações
+- **Pré-processamento de texto com remoção de stopwords em português**
+- **Vetorização TF-IDF de títulos de publicações (3.000 features)**
+- **Determinação do número ótimo de clusters usando múltiplas métricas**:
+  - Método do Cotovelo (WCSS)
+  - Coeficiente de Silhueta
+  - Índice Calinski-Harabasz
+  - Índice Davies-Bouldin
+- **Aplicação de K-Means com validação por ranking combinado**
+- **Visualização 2D e 3D dos clusters usando PCA**
+- **Identificação de 4 clusters principais de áreas temáticas**
 
 ## 🪟 Solução de Problemas no Windows
 
