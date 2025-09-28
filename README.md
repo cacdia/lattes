@@ -102,31 +102,85 @@ pip install uv
 
 ## 🚀 Primeiros Passos
 
-### 1. Clone o repositório
+Siga os passos abaixo para configurar rapidamente o projeto em sua máquina.
+
+### 1\. Clone o repositório
 
 ```bash
 git clone https://github.com/cacdia/lattes.git
 cd lattes
 ```
 
-### 2. Configure o ambiente
+### 2\. Configure o ambiente virtual
+
+Crie o ambiente virtual e instale todas as dependências do projeto com um único comando:
 
 ```bash
-# Cria o ambiente virtual e instala todas as dependências
+# Sincroniza o ambiente: cria o .venv e instala os pacotes listados no pyproject.toml
 uv sync
 ```
 
-### 3. Execute a coleta de dados
+### 3\. Configure o VSCode
+
+Abra o projeto no Visual Studio Code:
 
 ```bash
-# Download dos currículos HTML
-uv run scripts/download_profile.py --input data/professores_ci.csv
-
-# Parsing dos HTMLs para estruturar os dados
-uv run scripts/parse_profiles.py --input professores_perfil_html --output data/professores.json
+code .
 ```
 
-### 4. Execute as análises
+#### Instale as extensões recomendadas
+
+Ao abrir o projeto pela primeira vez:
+
+- Uma notificação aparecerá sugerindo a instalação das extensões recomendadas.
+- Clique em **Install All** ou em **Show Recommendations**.
+- Alternativamente, pressione `Ctrl+Shift+X` (ou `Cmd+Shift+X` no macOS) e digite `@recommended` na barra de pesquisa.
+
+#### Selecione o interpretador Python correto
+
+É crucial que o VSCode utilize o ambiente virtual (`.venv`) que o `uv` criou.
+
+1.  Pressione `F1` (ou `Ctrl+Shift+P`)
+2.  Digite **Python: Select Interpreter**
+3.  Escolha o interpretador que tem **('.venv')** no nome. Ex: `"Python 3.13 ('.venv':venv)"`
+
+### 4\. Execute o projeto
+
+O projeto funciona em duas etapas principais: primeiro baixar os currículos, depois processá-los.
+
+```bash
+# Comando principal para executar o download
+uv run scripts/download_profile.py --input data/professores_ci.csv
+```
+
+#### Exemplo com diretório de saída personalizado
+
+Você também pode especificar onde os arquivos HTML dos currículos serão salvos com a flag `--output`.
+
+```bash
+# Salva os arquivos no diretório 'meu_diretorio'
+uv run scripts/download_profile.py --input data/professores_ci.csv --output meu_diretorio
+```
+
+Após baixar os arquivos HTML, utilize o script parse_lattes.py para processá-los e gerar um arquivo consolidado com os dados extraídos.
+
+O formato de saída (CSV ou JSON) é definido pela extensão do arquivo que você especificar em --output.
+
+#### Exemplo para saída em CSV:
+
+```bash
+# Processa os HTMLs da pasta 'meus_curriculos' e salva os dados em um arquivo CSV
+uv run scripts/parse_profiles.py --input meu_diretorio --output data/professores.csv
+```
+
+#### Exemplo para saída em JSON:
+
+```bash
+# Processa os HTMLs e salva os dados em formato JSON
+uv run scripts/parse_profiles.py --input meu_diretorio --output data/professores.json
+```
+
+### Execute as análises
 
 Abra o Jupyter Lab e execute os notebooks na pasta `notebook/`:
 
