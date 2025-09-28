@@ -16,14 +16,6 @@
 
 Este projeto de Ciência de Dados realiza uma análise abrangente dos currículos da Plataforma Lattes de docentes e pesquisadores do Centro de Informática (CI). A Plataforma Lattes, mantida pelo CNPq, é uma base de dados rica em informações sobre a produção acadêmica, profissional e intelectual de pesquisadores brasileiros.
 
-### Objetivos Principais
-
-- **Mapear perfis de pesquisadores**: extração e análise de dados de identificação, formação acadêmica, produções científicas e redes de colaboração
-- **Explorar padrões temporais**: investigação da evolução da produção acadêmica ao longo do tempo
-- **Identificar estruturas de colaboração**: análise de coautorias e projetos colaborativos entre pesquisadores
-- **Investigar fatores de produtividade**: relação entre formação, experiência e produção científica
-- **Descobrir agrupamentos temáticos**: clustering de pesquisadores baseado em títulos de publicações
-
 ## 👥 Equipe
 
 - **Sarah Fernanda Calixto de Araújo** — `20240011267`
