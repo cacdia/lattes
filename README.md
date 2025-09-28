@@ -226,5 +226,3 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina de Introdução à Ciência de Dados, ministrada pelo professor Yuri Malheiros.
 
 ---
-
-**Nota**: Para reproduzir completamente as análises, execute primeiro os scripts de coleta e parsing, depois abra os notebooks na ordem sugerida.
