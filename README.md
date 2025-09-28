@@ -29,11 +29,7 @@ Este projeto de Ciência de Dados realiza uma análise abrangente dos currículo
 Utilizamos a biblioteca **Playwright** para navegar automaticamente na Plataforma Lattes, capturando os currículos completos dos pesquisadores. Esta abordagem permite contornar limitações de APIs e capturar dados estruturados diretamente das páginas web.
 
 ### 2. Extração e Estruturação (Parsing)
-Os HTMLs coletados são processados com **BeautifulSoup** para extrair informações estruturadas:
-- Dados de identificação (nome, resumo, formação)
-- Produções bibliográficas (artigos, livros, conferências)
-- Projetos de pesquisa e extensão
-- Redes de colaboração (coautores e integrantes de projetos)
+Após o download, um segundo script utiliza as bibliotecas **BeautifulSoup** e **Pandas** para fazer o parsing do conteúdo HTML. Ele extrai informações-chave como dados básicos (nome, resumo), formação acadêmica, projetos de pesquisa e redes de colaboração (coautores e integrantes de projetos). Os dados são então consolidados e exportados em formatos estruturados como JSON, prontos para a análise.
 
 ### 3. Análise e Modelagem
 Aplicamos técnicas de:
