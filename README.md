@@ -8,7 +8,6 @@
 - [Pré-requisitos](#-pré-requisitos)
 - [Primeiros Passos](#-primeiros-passos)
 - [Análises Realizadas](#-análises-realizadas)
-- [Resultados Principais](#-resultados-principais)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Solução de Problemas no Windows](#-solução-de-problemas-no-windows)
 
