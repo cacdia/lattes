@@ -198,7 +198,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ## 📄 Licença
 
-Este projeto é desenvolvido para fins acadêmicos como parte da disciplina de Introdução a Ciencia de Dados, ministrada pelo professor Yuri Malheiros.
+Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina de Introdução à Ciência de Dados, ministrada pelo professor Yuri Malheiros.
 
 ---
 
