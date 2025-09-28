@@ -246,4 +246,4 @@ Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina de 
 
 ---
 
-**Nota**: Para reproduzir completamente as análises, execute primeiro os scripts de coleta e parsing, depois abra os notebooks na ordem sugerida. O processamento completo pode levar algumas horas dependendo do número de currículos.
+**Nota**: Para reproduzir completamente as análises, execute primeiro os scripts de coleta e parsing, depois abra os notebooks na ordem sugerida.
