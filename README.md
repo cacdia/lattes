@@ -205,29 +205,6 @@ Comece pelo [`notebook_relatorio.ipynb`](notebook/notebook_relatorio.ipynb) que 
 - **Padrões de colaboração por período**
 - **Tendências por laboratório e área de pesquisa**
 
-## 🎯 Resultados Principais
-
-### Produtividade Acadêmica
-- **Liliane dos Santos Machado** lidera com 498 publicações e 316 coautores
-- Forte correlação entre produção e colaboração (r=0.85)
-- Concentração significativa: top 10% respondem por >50% das publicações
-
-### Impacto da Formação
-- Pesquisadores com **Pós-doutorado**: média de 89.7 publicações
-- Pesquisadores com **Doutorado**: média de 60.1 publicações
-- Pesquisadores com **Mestrado**: média de 44.3 publicações
-- ANOVA confirma diferenças significativas (p < 0.001)
-
-### Redes de Colaboração
-- **67 pesquisadores** analisados com redes de coautoria bem conectadas
-- Laboratórios ARIA e LAVID mostram colaboração intensa
-- Identificação de "brokers" que conectam diferentes grupos de pesquisa
-
-### Agrupamentos Temáticos
-- **4 clusters principais** identificados nos títulos das publicações
-- Áreas dominantes: Inteligência Artificial, Redes/Sistemas, Educação Tecnológica, Otimização
-- Alta coesão interna dos clusters (Silhouette Score = 0.31)
-
 ## 🪟 Solução de Problemas no Windows
 
 Caso encontre problemas de permissão ao executar scripts no PowerShell (comum ao instalar o uv), execute o seguinte comando para permitir a execução de scripts assinados:
