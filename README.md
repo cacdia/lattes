@@ -83,22 +83,20 @@ lattes/
 
 ## 🔧 Pré-requisitos
 
-- **Python 3.13+**
-- **uv** (gerenciador de pacotes e ambientes Python)
-- **Git**
+Certifique-se de instalar os seguintes programas antes de começar:
 
-### Instalação do uv
+- **Visual Studio Code** 👉 [Download VSCode](https://code.visualstudio.com/)
 
-```bash
-# macOS/Linux
-curl -LsSf https://astral.sh/uv/install.sh | sh
+- **Git** 👉 [Download Git](https://git-scm.com/downloads)
 
-# Windows (PowerShell)
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+- **uv** O `uv` é um gerenciador de pacotes e ambientes virtuais extremamente rápido para Python. Instale utilizando o comando adequado ao seu sistema operacional:
 
-# Via pip
-pip install uv
-```
+  ```bash
+  # Windows (PowerShell)
+  powershell -ExecutionPolicy ByPass -c "irm [https://astral.sh/uv/install.ps1](https://astral.sh/uv/install.ps1) | iex"
+
+  # macOS/Linux
+  curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
 
 ## 🚀 Primeiros Passos
 
