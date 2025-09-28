@@ -5,11 +5,11 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Equipe](#-equipe)
 - [Metodologia](#-metodologia)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Pré-requisitos](#-pré-requisitos)
 - [Primeiros Passos](#-primeiros-passos)
 - [Análises Realizadas](#-análises-realizadas)
 - [Resultados Principais](#-resultados-principais)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Solução de Problemas no Windows](#-solução-de-problemas-no-windows)
 
 ## 📖 Sobre o Projeto
@@ -37,37 +37,6 @@ Aplicamos técnicas de:
 - **Clustering**: agrupamento temático usando TF-IDF e K-Means
 - **Análise Estatística**: correlações entre formação, experiência e produtividade
 - **Visualização Interativa**: uso de Plotly e NetworkX para exploração visual dos dados
-
-## 📁 Estrutura do Projeto
-
-```
-lattes/
-├── .github/
-│   └── ISSUE_TEMPLATE/
-├── data/
-│   ├── professores_ci.csv          # Lista de entrada dos professores
-│   ├── professores.json            # Dados consolidados (JSON)
-│   ├── prof_labs.csv               # Mapeamento professor ↔ laboratório
-│   └── titulos_producoes.json      # Títulos para análise de clustering
-├── professores_perfil_html/        # HTMLs dos currículos coletados
-├── notebook/
-│   ├── notebook_relatorio.ipynb    # Notebook principal com análises
-│   ├── analysis.ipynb              # Análises exploratórias adicionais
-│   ├── laboratorios.ipynb          # Análises por laboratório
-│   ├── proximidade_titulos.ipynb   # Análise de similaridade de títulos
-│   └── utils_lattes.py             # Funções utilitárias
-├── scripts/
-│   ├── download_profile.py         # Script para coleta dos currículos
-│   └── parse_profiles.py           # Script para parsing dos HTMLs
-├── src/
-│   └── __init__.py
-├── .vscode/                        # Configurações do VS Code
-├── .gitignore
-├── pyproject.toml                  # Dependências e metadados
-├── README.md
-├── ruff.toml                       # Configurações de formatação
-└── uv.lock                         # Lock file para dependências
-```
 
 ## 🔧 Pré-requisitos
 
@@ -213,6 +182,37 @@ Comece pelo [`notebook_relatorio.ipynb`](notebook/notebook_relatorio.ipynb) que 
 - **Aplicação de K-Means com validação por ranking combinado**
 - **Visualização 2D e 3D dos clusters usando PCA**
 - **Identificação de 4 clusters principais de áreas temáticas**
+
+## 📁 Estrutura do Projeto
+
+```
+lattes/
+├── .github/
+│   └── ISSUE_TEMPLATE/
+├── data/
+│   ├── professores_ci.csv          # Lista de entrada dos professores
+│   ├── professores.json            # Dados consolidados (JSON)
+│   ├── prof_labs.csv               # Mapeamento professor ↔ laboratório
+│   └── titulos_producoes.json      # Títulos para análise de clustering
+├── professores_perfil_html/        # HTMLs dos currículos coletados
+├── notebook/
+│   ├── notebook_relatorio.ipynb    # Notebook principal com análises
+│   ├── analysis.ipynb              # Análises exploratórias adicionais
+│   ├── laboratorios.ipynb          # Análises por laboratório
+│   ├── proximidade_titulos.ipynb   # Análise de similaridade de títulos
+│   └── utils_lattes.py             # Funções utilitárias
+├── scripts/
+│   ├── download_profile.py         # Script para coleta dos currículos
+│   └── parse_profiles.py           # Script para parsing dos HTMLs
+├── src/
+│   └── __init__.py
+├── .vscode/                        # Configurações do VS Code
+├── .gitignore
+├── pyproject.toml                  # Dependências e metadados
+├── README.md
+├── ruff.toml                       # Configurações de formatação
+└── uv.lock                         # Lock file para dependências
+```
 
 ## 🪟 Solução de Problemas no Windows
 
