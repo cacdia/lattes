@@ -190,32 +190,15 @@ Comece pelo [`notebook_relatorio.ipynb`](notebook/notebook_relatorio.ipynb) que 
 
 ## 🪟 Solução de Problemas no Windows
 
-Se encontrar problemas com encoding no Windows:
+Caso encontre problemas de permissão ao executar scripts no PowerShell (comum ao instalar o uv), execute o seguinte comando para permitir a execução de scripts assinados:
 
 ```bash
-# Configure o encoding para UTF-8
-set PYTHONUTF8=1
-uv run scripts/download_profile.py --input data/professores_ci.csv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
-
-Para problemas com Playwright:
-
-```bash
-# Instale os navegadores necessários
-uv run playwright install
-```
-
-## 📈 Próximos Passos
-
-- **Integração com APIs externas** (ORCID, Scopus) para enriquecimento dos dados
-- **Dashboard interativo** para monitoramento contínuo
-- **Análise de sentimentos** em resumos e títulos
-- **Predição de colaborações futuras** usando aprendizado de máquina
-- **Análise de impacto** baseada em citações
 
 ## 📄 Licença
 
-Este projeto é desenvolvido para fins acadêmicos como parte do curso de Ciência de Dados.
+Este projeto é desenvolvido para fins acadêmicos como parte da disciplina de Introdução a Ciencia de Dados, ministrada pelo professor Yuri Malheiros.
 
 ---
 
