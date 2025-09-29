@@ -196,9 +196,6 @@ lattes/
 ├── professores_perfil_html/        # HTMLs dos currículos coletados
 ├── notebook/
 │   ├── notebook_relatorio.ipynb    # Notebook principal com análises
-│   ├── analysis.ipynb              # Análises exploratórias adicionais
-│   ├── laboratorios.ipynb          # Análises por laboratório
-│   ├── proximidade_titulos.ipynb   # Análise de similaridade de títulos
 │   └── utils_lattes.py             # Funções utilitárias
 ├── scripts/
 │   ├── download_profile.py         # Script para coleta dos currículos
