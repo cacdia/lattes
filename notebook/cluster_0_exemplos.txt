@@ -1,0 +1,236 @@
+Um Sistema de Recomendação de Especialistas em Desenvolvimento Distribuído de Software:  Requisitos, Projeto e Resultados Preliminares. In: VI Simpósio Brasileiro de Sistemas Colaborativos, 2009, Fortaleza-CE. Anais do VI Simpósio Brasileiro de Sistemas Colaborativos, 2009.
+Levantamento Estatístico Acerca da Disciplina de Estrutura de Dados no Curso de Bacharelado em Ciência da Computação da UFPB. In: XIV Encontro de Iniciação à Docência, 2011, João Pessoa. Anais do XIV Encontro de Iniciação à Docência. João Pessoa: Editora Universitária da UFPB, 2011.
+Física de Sistemas Granulares: Criação de um Ambiente de Alto Desempenho Utilizando o Sistema Operacional Linux. In: XI Encontro de Iniciação Científica da UFPB, 2003, João Pessoa. XI Encontro de Iniciação Científica da UFPB. João Pessoa: Editora Universitária/UFPB, 2003. v. 1. p. 83-83.
+Um Sistema de Recomendação de Especialistas em Desenvolvimento Distribuído de Software: Requisitos, Projeto e Resultados Preliminares. 2009. (Apresentação de Trabalho/Simpósio).
+Ambiente de Alto Desempenho Utilizando o Sistema Operacional Linux. 2003.
+Física de Sistemas Granulares: Criação de um Ambiente de Alto Desempenho Utilizando o Sistema Operacional Linux. 2003.
+Análise de redes de palavras baseada em títulos extraídos de um sistema de atendimento. In: Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2014), 2014, Brasília. Anais do III Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2014). Porto Alegre: SBC, 2014. p. 90-93.
+Análise de mobilidade urbana através de dados da rede de telefonia móvel celular. In: Simpósio Brasileiro de Computação Ubíqua e Pervasiva - SBCUP, 2012, Curitiba. Anais do Congresso Brasileiro de Computação CSBC. Porto Alegre: Sociedade Brasileira de Computação, 2012. v. 1. p. 100-120.
+TeachingBook: Um Sistema de Monitoramento de Interação para o Facebook. In: Workshop sobre Educação em Informática (WEI), 2012, Curitiba. Anais do XXXII Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computacao, 2012. v. 1. p. 1584-1592.
+Tutor hipermídia baseado no modelo de autoria NCM para o Interpretador Gráfico de Estrutura de Dados. In: Workshop sobre Educação em Computação, 2012, Curitiba. Anais do XXXII Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computacao, 2012. v. 1. p. 1584-1592.
+Um Interpretador de Comandos e Avaliador Gráfico para o Ensino de Estrutura de Dados. In: Congresso da Sociedade Brasileira de Computação (CSBC) - Workshop sobre Educação em Informática (WEI), 2011, Natal. Anais do XXXI Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computação, 2011. p. 136-142.
+Sistema de Transmissão de Vídeo para Vigilância Utilizando Bluetooth. In: Simpósio Brasileiro de Multimídia e Hipermídia - SBMIDIA, 2002, Fortaleza. VIII Brazilian Symposium on Multimedia and Hypermedia Systems. Fortaleza: SBC, 2002. v. 1. p. 325-332.
+Um jogo educativo voltado ao ensino de Modelagem de Dados. In: Congresso da Sociedade Brasileira de Computação (CSBC) - Workshop de Ensino de Computação (WEI), 2011, Natal. Anais do XXXI Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computação, 2011. p. 140-148.
+Sistema InfoCampus - Plataforma Distribuída de Integração de Aplicações. In: Workshop de Software Livre nas Universidades - 2005, 2005, Porto Alegre - RS. Workshop de Software Livre nas Universidades / WOSLU, 2005.
+Sistema de Avaliação dos Docentes pelos Discentes (sob a Plataforma InfoCampus). 2006.
+Coleta de Dados Digital para Aumentar a Produtividade no Controle e Acompanhamento de Obras. 2004.
+Sistema de Informação e Acompanhamento da Gestão de Recursos Públicos na Execução Orçamentária. 2003.
+Sistema de Controle de Atividades Acadêmicas do CCEN. 2002.
+SACI - Sistema de Apoio à Decisão do Centro de Informática: o caso da UFPB. In: LIV Simpósio de Pesquisa Operacional, 2022, Juiz de Fora. Anais do LIV SBPO. Rio de Janeiro: SOBRAPO, 2022. p. 1-12.
+Abordagem baseada em Continuous GRASP para clusterização de dados. In: XLVIII Simpósio Brasileiro de Pesquisa Operacioanl, 2016, Vitória. Anais do XLVIII SBPO. Rio de Janeiro: SOBRAPO, 2016.
+Tutor hipermídia baseado no modelo de autoria NCM para o Interpretador Gráfico de Estrutura de Dados. In: Workshop sobre Educação em Computação, 2012, Curitiba. Anais do XXXII Congresso da Sociedade Brasileira de Computação, 2012.
+Um Interpretador de Comandos e Avaliador Gráfico para o Ensino de Estrutura de Dados. In: Workshop de Ensino da Informática (WEI), 2011, Natal. Anais do XXXI Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira da Computação, 2011.
+O problema de Riemann para um modelo matematico de um escoamento trifasico com dados de injecao aguas-gas e dados de producao gas-oleo. In: XXXIII CNMAC, 2010, Aguas de Lindoia. Caderno de Resumos do XXXIII CNMAC, 2010. v. CDROM.
+O problema de Riemann para um sistema de leis de conservação com dados especificados. In: II ENAMA, 2009, Maringá. II Encontro Nacional de Análise Matemática e Aplicações, Resumo dos Trabalhos, 2009. v. 1. p. 60-61.
+O método das curvas de ondas para 					a solução do problema de Riemann de um sistema de leis de conservação proveniente de um fluxo trifásico em meio poroso. In: V Colóquio de Matemática da Região Nordeste, 2022, João Pessoa. Resumos do V Colóquio de Matemática da Região Nordeste, 2022.
+O método das curvas de ondas para 					a solução do problema de Riemann de um sistema de leis de conservação proveniente de um fluxo trifásico em meio poroso. 2022. (Apresentação de Trabalho/Congresso).
+O problema de Riemann para um modelo matematico de um escoamento trifasico com dados de  injecao aguas-gas e dados de producao gas-oleo.. 2010. (Apresentação de Trabalho/Congresso).
+O Problema de Riemman para um Sistema de Leis de Conservação com Dados Especificados. 2009. (Apresentação de Trabalho/Congresso).
+Classificador de notificações de acidentes ambientais no Sistema Nacional de Emergências Ambientais do IBAMA. In: IVIII Congresso da Sociedade Brasileira de Computação, 2023, João Pessoa. Anais do XI Workshop de Computação Aplicada em Governo Eletrônico, 2023.
+Metaheurísticas aplicadas à Geração de Carrossel no Sistema Brasileiro de TV Digital. In: Webmidia, 2008, Vila Velha - ES. Anais do XIV Simpósio de Sistemas Multimídia e Web, 2008.
+SACI - Sistema de Apoio à Decisão do Centro de Informática: o caso da UFPB. In: LIV Simpósio Brasileiro de Pesquisa Operacional, 2022, Juiz de Fora. Anais do LIV Simpósio Brasileiro de Pesquisa Operacional, 2022.
+ANÁLISE DA PARTICIPAÇÃO DE UM SISTEMA DE CONVERSÃO DE ENERGIA EÓLICA BASEADO EM PMSG NO CONTROLE PRIMÁRIO DA REDE ELÉTRICA. In: Congresso Brasileiro de Automática - CBA, 2018, João Pessoa. CBA 2018, 2018.
+Simulação em Tempo Real, com FPGAs, de um Sistema de Conversão de Energia Renovável no Controle Primário da Rede Elétrica. In: Encontro Nacional de Iniciação Científica- ENIC 2020, 2020, João Pessoa. Encontro Nacional de Iniciação Científica- ENIC 2020, 2020.
+Participação de um Sistema de Conversão de Energia Renovável no Controle Primário da Rede Elétrica. In: Encontro Nacional de Iniciação Científica- ENIC 2019, 2019, João Pessoa. Encontro Nacional de Iniciação Científica- ENIC 2019, 2019.
+ANÁLISE DA P ARTICIP AÇÃO DE UM SISTEMA DE CONVERSÃO DE ENERGIA EÓLICA BASEADO EM PMSG NO CONTROLE PRIMÁRIO DA REDE ELÉTRICA. 2018. (Apresentação de Trabalho/Congresso).
+FlexTV - Uma Proposta de Arquitetura de Middleware para o Sistema Brasileiro de TV Digital. Revista de Engenharia de Computação e Sistemas Digitais (Impresso) , v. 2, p. 29-50, 2005. Citações: 6
+Um Sistema Facilitador de Percepção Musical para Deficientes Auditivos. In: WebMedia 2016, 2016, Teresina - PI. Anais do XXII WebMedia, 2016.
+Xtation: um Ambiente de Testes de Aplicações para TV Digital Interativa Baseado no Middleware de Referência do Sistema Brasileiro de Televisão Digital. In: 12th Brazilian Symposium on Multimedia and the Web, WebMedia 2006, 2006, Natal, Rio Grande do Norte. Proceedings of the 12th Brazilian Symposium on Multimedia and the Web, WebMedia 2006 - SESSION OF DEMOS AND TOOLS, 2006.
+Sistema Especialista Híbrido Aplicado à Área Médica. In: CBIS'2002, VIII CONGRESSO BRASILEIRO DE INFORMÁTICA EM SAÚDE - A REALIDADE BRASILEIRA E CAMINHOS PARA O FUTURO, 2002, Natal. Anais do VIII Congresso Brasileiro de Informática em Saúde, CBIS'2002, 2002.
+Sistema Especialista Híbrido de Apoio à Cardiologia. In: CBEB'2002, A TECNOLOGIA DA VIDA, XVIII CONGRESSO BRASILEIRO DE ENGENHARIA BIOMÉDICA, 2002, São José dos Campos. Anais do XVIII CONGRESSO BRASILEIRO DE ENGENHARIA BIOMÉDICA (CBEB´2002), 2002.
+Sistema Especialista Conexionista para Auxílio ao Diagnóstico Médico. In: X Encontro de Iniciação Científica da UFPB, 2002, João Pessoa, 2002.
+Desenvolvimento de um Sistema Especialista Híbrido aplicado à área Médica. In: X Encontro de Iniciação Científica da UFPB, 2002, João Pessoa, 2002.
+Xtation: um Ambiente de Testes de Aplicações para TV Digital Interativa Baseado no Middleware de Referência do Sistema Brasileiro. 2006. (Apresentação de Trabalho/Simpósio).
+Sistema para Execução de Aplicações Paralelizadas utilizando uma Grade de Aparelhos Receptores de Redes de Televisão. 2006.
+Políticas de Gerenciamento de Memória em GPU para Análise de Dados de Dinâmica de Fluídos de Alta Ordem. In: Encontro de Iniciação Científica da UFPB, 2013, João Pessoa. XXI Encontro de Iniciação Científica da UFPB - Ciência, Saúde e Esporte. João Pessoa: Editora da UFPB, 2013.
+Uma Abordagem DARP para Implementação de um Sistema de Caronas. Revista IEEE América Latina , v. 10, p. 1215-1220, 2012.
+Um Modelo Sequencial para Identificação do Comprometimento Cognitivo Usando Dados de Acelerômetro. In: XXV Simpósio Brasileiro de Computação Aplicada à Saúde, 2025, Porto Alegre. Anais do XXV Simpósio Brasileiro de Computação Aplicada à Saúde, 2025. v. 1. p. 1-11.
+Avaliação de um Sistema de Captura e Visualização de Parâmetros Físicos em um  Ergômetro para Cadeirantes. In: Congresso Brasileiro de Atividade Motora Adaptada, 2019, Maceio. Anais do XI Congresso Brasileiro de Atividade Motora Adaptada, 2019. v. 11. p. 1-6.
+Uma Abordagem Genérica de Identificação Precoce de Estudantes com Risco de Evasão em um AVA utilizando Técnicas de Mineração de Dados. In: Taller Internacional de Software Educativo, 2014, Fortaleza. Anais do XIX Conferência Internacional sobre Informática na Educação, 2014. v. 10. p. 794-799.
+Comunicação de Dados em um Sistema Integrado para Acompanhamento de Diabéticos. In: XVIII Congresso Brasileiro de Engenharia Biomédica - CBEB2002, 2002, São José dos Campos - SP. Anais do CBEB'2002, 2002.
+Educação em Diabetes - Sistema para Caracterização do Grau de Conhecimento dos Pacientes. In: VIII Congresso Brasileiro de informática em saúde - CBIS'2002, 2002, Natal - RN. Anais do CBIS'2002, 2002.
+Software para Armazenamento de Dados do Diabético Utilizando Cartões Inteligentes. In: VII Encontro de Iniciação Científica, 2000, João Pessoa. Iniciados - Prêmio Iniciação Científica 98-99, 1999. p. 141-149.
+Sistema para acompanhamento de pacientes diabéticos: Implantação de 
+projeto piloto no Hospital Universitário Lauro Wanderley/UFPB. In: PEP99 - Prontuário Eletrônico do Paciente Integrando América Latina e Caribe, 1999, Rio de Janeiro. Anais do PEP99 - Prontuário Eletrônico do Paciente Integrando América Latina e Caribe, 1999.
+Sistema de Informação para Acompanhamento de Pacientes Diabéticos. In: IV Fórum Nacional de Ciência e Tecnologia em Saúde, 1998, Curitiba. Anais do IV Fórum Nacional de Ciência e Tecnologia em Saúde, 1998. p. 517-518.
+BDGEO: Modelagem, Implementação e Visualização de Dados Geográficos. In: GIS BRASIL 97 - III Congresso e Feira para Usuários de Geoprocessamento, 1997, Curitiba. Anais do GIS BRASIL 97 - III Congresso e Feira para Usuários de Geoprocessamento, 1997.
+Ecofenologia: Um Sistema Informatizado para Estudos Fenológicos na Reserva Biológica Guaribas. In: 59 º Congresso Nacional de Botânica, 2008, Natal. Anais do 59º Congresso Nacional de Botânica, 2008.
+SISTEMA PARA ACOMPANHAMENTO NUTRICIONAL EMPREGANDO DIETA POR EQUIVALENTES. In: 53ª Reunião Anual da SBPC, 2001, Salvador. Anais do 53ª Reunião Anual da SBPC, 2001.
+Sistema Informatizado para Acompanhamento de Pacientes Diabéticos - Manutenção do Módulo para Acompanhamento Nutricional. In: IX ENCONTRO DE INICIAÇÃO CIENTÍFICA DA UFPB, 2001, João Pessoa - PB. IX Encontro de Iniciação Científica da UFPB - Resumos, 2001. v. 1. p. 298-298.
+Manutenção de um Sistema Informatizado para Acompanhamento de Pacientes Diabéticos. In: IX ENCONTRO DE INICIAÇÃO CIENTÍFICA DA UFPB, 2001, João Pessoa - PB. IX Encontro de Iniciação Científica da UFPB - Resumos, 2001. v. 1. p. 301-301.
+Módulo de Geração de Indicadores Gráficos Estatísticos de um Sistema Informatizado para Acompanhamento de Diabéticos. In: VIII Encontro de Iniciação Científica da UFPB, 2000, João Pessoa. VIII Encontro de Iniciação Científica da UFPB - Resumos, 2000. v. 1. p. 274-274.
+Módulo de Comunicação de um Sistema Informatizado para Acompanhamento de Diabéticos. In: VII Encontro de Iniciação Científica da UFPB, 1999, João Pessoa. VII Encontro de Iniciação Científica - Resumos, 1999. v. 1. p. 246-246.
+EDUCAÇÃO EM DIABETES ATRAVÉS DE UM SISTEMA INFORMATIZADO. Arquivos Brasileiros de Endocrinologia e Metabologia , v. 45, n.5, p. 575-575, 2001.
+Análise de Dados de Percursos Curriculares dos Alunos de Ciência da Computação da Universidade Federal da Paraíba. RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO , v. 17, p. 174-183, 2019.
+Uma Revisão Sistemática sobre a Relação de Impacto da Qualidade de Dados na Justiça Algorítmica para Classificação de Imagens. In: Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2024, Goiânia - GO. Anais Estendidos do Simpósio Brasileiro de Computação Aplicada à Saúde. Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 31-36.
+A Lei Geral de Proteção de Dados do Brasil à Luz do Regimento Europeu: Um Exame Comparativo e Prospectivo através de uma Revisão Sistemática. In: Workshop sobre as Implicações da Computação na Sociedade (WICS), 2024, Brasília - DF. Anais do Workshop sobre as Implicações da Computação na Sociedade (WICS). Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 70-79.
+Xtation: um Ambiente de Testes de Aplicações para TV Digital Interativa Baseado no Middleware de Referência do Sistema Brasileiro de Televisão Digital. In: 12th Brazilian Symposium on Multimedia and the Web, 2006, Natal. Proceedings of the 12th Brazilian Symposium on Multimedia and the Web, 2006.
+Xtation: um Ambiente de Testes de Aplicações para TV Digital Interativa Baseado no Middleware de Referência do Sistema Brasileiro de Televisão Digital. 2006. (Apresentação de Trabalho/Simpósio).
+Sistema para Controle e Auditoria Automática de Veiculação de Propagandas em Sistemas de TV. 2010.
+Sistema para Controle e Auditoria Automático de Programação em Emissoras de TV Digital. 2010.
+Contribuições de um Plugin do tipo Report para a Identificação do Risco de Evasão no AVA Moodle cm base em Visualização de Dados. Revista Brasileira de Informática na Educação (RBIE) , v. 28, p. 1-29, 2020.
+A PRODUÇÃO AUDIOVISUAL PARA MÚLTIPLAS TELAS: UMA ANÁLISE COMPARATIVA DO SISTEMA MULTIMÍDIA TROPEL. POLICROMIAS - REVISTA DE ESTUDOS DO DISCURSO, IMAGEM E SOM , v. 5, p. 360-390, 2020.
+Criação de representações visuais de dados usando Deep Dream Generator. Temática - Revista eletrônica de publicação mensal , v. 14, p. 1, 2018.
+A importância da infografia interativa para visualização e análise de dados: um estudo de caso sobre a participação de religiosos em eleições no Brasil. Temática (João Pessoa. Online) , v. 11, p. 44-54, 2016.
+Análise e Visualização de Dados do Twitter para Divulgação de Conteúdo de  uma Eleição Municipal. Perspectivas em Gestão & Conhecimento , v. 5, p. 184-195, 2015.
+EASY-SRA: um sistema de resposta à audiência para recuperação contínua. RENOTE. Revista Novas Tecnologias na Educação , v. 10, p. 01-10, 2012.
+NOTSYS: um sistema de notificação para usuários de bibliotecas digitais compatíveis com o padrão dublin core. Informação & Sociedade (UFPB. Impresso) , v. 20, p. 143-148, 2010.
+Uma Reengenharia em Mapas do Software para Visualização de Dados Datawrapper. In: IX Encontro Unificado de Computação, 2016, Teresina. Anais do ENUCOMP. Parnaíba: ifpi, 2016. v. 1. p. 207-215.
+SQL- FÁCIL Uma Interface para acesso a banco de dados relacional. In: XXIII Congresso Nacional de Informática e II Congresso Internacional de Informática, 1990, Rio de Janeiro. Anais eletrônicos do SUCESU´90, 1990.
+NotSys: um sistema de notificação par usuários de bibliotecas digitais. In: Conferência Ibero-Americana WWW/Internet, 2009, Madri. Anais da Conferência Ibero-Americana WW/Internet. Alcalá de Henares: IADIS Press, 2009. p. 364-368.
+Um sistema de identificação automática de faces para um ambiente virtual de ensino e aprendizagem. In: XIV Simpóiso Brasileiro de Sistemas Multimídia e Web, 2008, Vilha Velha. Anais do XIV Simpóiso Brasileiro de Sistemas Multimídia e Web, 2008.
+Um Sistema de Notificação para Usuários de Bibliotecas Digitais. In: World Congress on Communication and Arts, 2007, Santos. Anais do World Congress on Communication and Arts, 2007.
+Um protótipo para visualização de dados brasileiros sobre educação, saúde e segurança utilizando o framework D3.js. 2017. (Apresentação de Trabalho/Outra).
+Visualização de Dados. 2015. (Apresentação de Trabalho/Outra).
+WORKSHOP DE INFORMAÇÃO, DADOS E TECNOLOGIA (WIDAT 2018). 2018.
+						(COMISSÃO CIENTÍFICA).
+SISTEMA INFOCAMPUS. 2005. (Apresentação de Trabalho/Outra).
+SISTEMA DE CONTROLE DE RESTAURANTE UNIVERSITÁRIO. 2005. (Apresentação de Trabalho/Outra).
+"RailBee" Sistema de Instrumentação Virtual em Veículos em Malhas Metroferroviárias. Revista Ferroviaria , v. 69, p. 54-61, 2009.
+Proposta de um Sistema Embarcado Aplicado a Bombas de Petróleo Utilizando o Processador Nios II e FPGA. In: VIII INDUSCON - Conferencia Internacional de Aplicações Industriais, 2008, Poços de Caldas. Conferência Internacional de Aplicações Industriais, 2008. v. VIII.
+Sistema de Testes para um Torquímetro Dinâmico Telemétrico Aplicado a Eixos Rotativos. In: I Congresso Tecnológico InfoBrasil TI e Telecom, 2008, Fortaleza. I Congresso Tecnológico InfoBrasil TI e Telecom, 2008.
+Sistema de Testes para um Torquímetro Dinâmico Telemétrico Aplicado a Eixos Rotativos. 2008. (Apresentação de Trabalho/Congresso).
+Integração de Sistema e Determinação do Torque da Unidade de Bombeio. 2007. (Apresentação de Trabalho/Conferência ou palestra).
+Sistema para Aquisição e Tratamento de Dados da Unidade Redutora de Petróleo. 2006. (Apresentação de Trabalho/Outra).
+SERCREF - Sistema Embarcado Reconfigurável para Controle de Redes de Sensores Sem Fios. 2008.
+Sistema para Aquisição de Dados Através de Módulos de Rádio Frequência e Conversores Analógico-Digitais. 2007.
+Software para Aquisição e Conversão de Dados por Microcontrolador 8051. 2006.
+Sistema de Gerenciamento de Concursos. 2005.
+Sistema para Aquisição e Tratamento de Dados da Unidade Redutora de Petróleo. 2007. (Relatório de pesquisa).
+Aquisição e Tratamento de Dados Obtidos do Redutor da Bomba de Petróleo. 2006. (Relatório de pesquisa).
+ELABORAÇÃO DOS ANAIS DO ENCONTRO UNIFICADO 2023-UFPB (ENID E ENEX), A PARTIR DE DADOS DOS FORMULÁRIOS DO GOOGLE. 2023. (Curso de curta duração ministrado/Extensão).
+Sistema de apoio à decisão clínica para manejo e encaminhamento de nódulos tireoidianos. REVISTA ELETRÔNICA ACERVO EM SAÚDE , v. 23, p. e12027, 2023.
+Classificador de notificações de acidentes ambientais no Sistema Nacional de Emergências Ambientais do IBAMA. In: IVIII Congresso da Sociedade Brasileira de Computação, 2023, João Pessoa. Anais do XI Workshop de Computação Aplicada em Governo Eletrônico, 2023.
+Tutor hipermídia baseado no modelo de autoria NCM para o Interpretador Gráfico de Estrutura de Dados. In: Workshop sobre Educação em Computação, 2012, Curitiba. Anais do XXXII Congresso da Sociedade Brasileira de Computação, 2012.
+Desenvolvimento de um Interpretador de Comandos e Avaliador Gráfico para o Ensino de Estrutura de Dados (IGED). In: Congresso da Sociedade Brasileira de Computação (CSBC) - Workshop de Ensino de Computação (WEI), 2011, Natal. Anais do XXXI Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computação, 2011.
+Modelagem de Funcionalidades de Sistema Hipermídia Adaptativa para o Interpretador Gráfico de Estrutura de Dados. In: WEI - XXI Workshop sobre Educação em Computação (CSBC 2013), 2013, Maceió. Cidades Inteligentes: Desafios para Computação, 2013. p. 414-419.
+Otimização e Implementação de um sistema de alocação ótima de serviços públicos utilizando a metaheurístic GRASP. In: XLII Simpósio Brasileiro de Pesquisa Operacional, 2010, Bento Gonçalves. Saúde Humana, Saúde Animal e Ecossistema, 2010.
+Aquisição, Processamento e Transmissão de Sinais Musculares em um Sistema de Baixo Custo. Revista Brasileira de Engenharia, v. 6, n.2, p. 494-501, 1989.
+Explorando Técnicas de Agrupamento de Dados na Indexação de Repositórios de Componentes de Software. In: I Workshop de Otimização em Engenharia de Software (WOES 2010), 2010, Salvador. I Workshop de Otimização em Engenharia de Software (WOES 2010), 2010.
+Uma Técnica de Indexação de Artefatos de Software Baseada em Dados Semi-Estruturados. In: III Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS), 2009, Natal. III Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software. Porto Alegre: Sociedade Brasileira de Computação - SBC, 2009. p. 166-179.
+Modelagem de Aplicações Paralelas no Sistema ACP II. In: XI Congresso Nacional da Sociedade Brasileira de Computação, 1991, Santos, 1991.
+Potencial de Desinfecção e Conforto Térmico em Ambientes Hospitalares por Sistema de Irradiação Germicida Ultravioleta e Dinâmica dos Fluidos Computacional. In: XII Congresso Nacional de Engenharia Mecânica, 2024, Natal. Anais do XII Congresso Nacional de Engenharia Mecânica. Rio de Janeiro: Associação Brasileira de Ciências Mecânicas, 2024.
+Desafios de clusterização de dados geoespaciais para a formação de redes industriais de CCUS. In: Escola Regional de Alto Desempenho da Região Nordeste, 2025, Brasil. Anais da VI Escola Regional de Alto Desempenho da Região Nordeste (ERAD-NE 2025), 2025. p. 21.
+Centro Internacional de Negócios da Paraíba lança painel de dados do comércio exterior. 2024.
+						
+							(Programa de rádio ou TV/Outra).
+Introdução à Visualização de Dados.
+						2022. (Desenvolvimento de material didático ou instrucional - Materialdidático).
+Fundamentos de Matemática e Estatística para Ciência de Dados com Python.
+						2021. (Desenvolvimento de material didático ou instrucional - Materialdidático).
+Introdução à Ciência de Dados.
+						2021. (Desenvolvimento de material didático ou instrucional - Materialdidático).
+Fundamentos de Matemática e Estatística para Ciência de Dados com Python. 2020. (Curso de curta duração ministrado/Extensão).
+Relatório do Projeto STAL - Sistema de Tratamento de Água de Lastro. 2014.
+						(Video-making).
+Logotipo Projeto STAL - Sistema de Tratamento de Água de Lastro. 2012.
+						(Graphic Design).
+Transparência e preservação de privacidade em dados governamentais no Brasil: pesquisa documental e estudo de caso. PLANEJAMENTO E POLITICAS PUBLICAS , v. 49, p. 431-464, 2017.
+Sistema para Aquisição e Processamento de Sinais Hemodinâmicos usando Microcomputador Compatível com IBM PC. Revista Brasileira de Engenharia Biomédica , São Paulo, v. 6, n.2, p. 38-35, 1989.
+A Lei Geral de Proteção de Dados do Brasil à Luz do Regimento Europeu: Um Exame Comparativo e Prospectivo através de uma Revisão Sistemática. In: V Workshop sobre as Implicações da Computação na Sociedade. 44 Congresso da Sociedade Brasileira de Computação (CSBC 2024), 2024, Brasília, DF. Anais do V Workshop sobre as Implicações da Computação na Sociedade (CSBC 2024). Porto Alegre: SBC, 2024. p. 70-79.
+Uma Ontologia de Domínio para Preservação de Privacidade em Dados Publicados pelo Governo Brasileiro. In: XII Brazilian Symposium on Information Systems - SBSI, 2016, Florianópolis, SC. Proceedings of the XII Brazilian Symposium on Information Systems - SBSI 2016. Porto Alegre, RS: SBC, 2016. p. 9-16.
+Um estudo de caso da publicação de dados no Brasil. In: X Congresso Norte Nordeste de Pesquisa e Inovação - X CONNEPI, 2015, Rio Branco, AC. Anais do X CONNEPI: Artigos e Resumos. Rio Branco, AC: IFAC, 2015. p. 2319-2325.
+Sistema Compacto para Armazenamento e Distribuição de Imagens Médicas em Ambientes Clínico-Hospitalares. In: CIBIS'2002 - VIII Congresso Brasileiro de Informática em Saúde, 2002, Natal - RN. Anais do CIBIS'2002 - VIII Congresso Brasileiro de Informática em Saúde, 2002.
+Modelo de Dados para Exames de Eletrocardiografia e Hemodinâmica. In: IV Fórum Nacional de Ciência e Tecnologia em Saúde: XVI Con-gresso Brasileiro de Engenharia Biomédica e VI Congresso Brasileiro de Informática em Saúde, 1998, Curitiba. Anais do IV Fórum Nacional de Ciência e Tecnologia em Saúde: XVI Con-gresso Brasileiro de Engenharia Biomédica e VI Congresso Brasileiro de Informática em Saúde, 1998. p. 593-594.
+Sistema de Aquisição do ECG de 12 Derivações usando Microcomputadores. In: III Fórum de Ciência e Tecnologia em Saúde: XV Con-gresso Brasileiro de Engenharia Biomédica, VI Congresso Brasileiro de Físi-cos em Medicina, V Congresso Brasileiro de Informática em Saúde e En-contro Brasileiro de Proteção Radiológica, 1996, Campos do Jordão. Anais do III Fórum de Ciência e Tecnologia em Saúde: XV Con-gresso Brasileiro de Engenharia Biomédica, VI Congresso Brasileiro de Físi-cos em Medicina, V Congresso Brasileiro de Informática em Saúde e En-contro Brasileiro de Proteção Radiológica, 1996. v. 1. p. 147-148.
+Aplicações Práticas de Especificações Formais Orientadas a Objetos: Um Sistema para Processamento do Eletrocardiograma de Esforço. In: VII Simpósio Brasileiro de Engenha-ria de Software, 1993, Rio de Janeiro. Anais do VII Simpósio Brasileiro de Engenha-ria de Software, 1993. p. 253-267.
+Sistema de Aquisição, Processamento e Gerenciamento de Dados de Cateterismo Cardíaco. In: III Encontro de Linhas de Pesquisa do Centro de Ciências da Saúde da Universidade Federal da Paraíba, 1991, João Pessoa - PB. Resumos do III Encontro de Linhas de Pesquisa do Centro de Ciências da Saúde da Universidade Federal da Paraíba. João Pessoa: Universidade Federal da Paraíba, 1991. p. 250-250.
+Avaliação Preliminar de um Sistema para Processamento de Sinais Hemodinâmicos Usando Microcomputador Compatível com IBM PC. In: X Congresso Brasileiro de Hemodinâmica e Angiocardiografia, 1989, Savaldor. Resumos do X Congresso Brasi-leiro de Hemodinâmica e Angiocardiografia, 1989.
+OTIMIZE-ELTE: Desenvolvimento de Sistema Integrado para Projeto Ótimo de Estruturas para Linhas de Transmissão de Energia Elétrica. 2008.
+ELABORAÇÃO DOS ANAIS DO ENCONTRO UNIFICADO 2023-UFPB (ENID E ENEX), A PARTIR DE DADOS DOS FORMULÁRIOS DO GOOGLE. 2023. (Curso de curta duração ministrado/Extensão).
+UMA COMPARAÇÃO ENTRE TÉCNICAS DIRECIONADAS A DADOS SENSORIAIS PARA A DETECÇÃO DE FALHAS DE ORIGEM ESTATÓRICA EM HIDROGERADORES. In: ANTONIO CARLOS BARBOSA MARTINS. (Org.). Artigos Técnicos aprovados no XIX ERIAC. 1ed.: CIGRE, 2023, v. , p. 1-.
+Incorporação de Deformação Física no Sistema CyberMed.. In: Symposium on Virtual Reality, 2006, Belém. Proc. of Symposium on Virtual Reality, 2006. p. 1-4.
+Modelagem do Comportamento Hemodinâmico de um Paciente Virtual Cirúrgico baseado em Sistema Especialista Fuzzy.. Tempus: Actas de Saúde Coletiva , v. 10, p. 187-203, 2016.
+Avaliação do sistema de referência e contrarreferência do estado da Paraíba segundo os profissionais da Atenção Básica no contexto do 1º ciclo de avaliação externa do PMAQ-AB. Saude em Debate , v. 38, p. 209-220, 2014.
+Sistema de Referência e Contrarreferência: avaliação segundo os profissionais da atenção básica participantes do 1o ciclo do PMAQ-AB na região Nordeste. In: Luciano Bezerra gomes, Mirceli Goulart Barbosa, Alcindo Antônio Ferla. (Org.). Atenção Básica: olhares a partir do Programa Nacional de Melhoria do Acesso e da Qualidade (PMAQ-AB). 1ed.porto Alegra/RS: Rede Unida, 2016, v. , p. 161-188.
+Ensino de Probabilidade no Sistema Calculadora Estatística. In: International Conference on Engineering  and Technology Education (Intertech 2008), 2008, Santos. Proceedings of International Conference on Technology and Engineering Education, 2008. v. 1. p. 354-358.
+Uma Implementação de Hiper-Realismo Baseada em Sistema Embarcado. In: I Congresso Tecnológico InfoBrasil TI & Telecom, 2008, Fortaleza. Anais do I Congresso Tecnológico InfoBrasil TI & Telecom, 2008.
+Implementação de um Módulo para Ensino de Controle Estatístico de Qualidade no Sistema Calculadora Estatística. In: International Conference on Engineering and Computer Education, 2007, Santos. Proc of International Conference on Engineering and Computer Education, 2007. p. 1064-1068.
+Análise da Atenção Básica em João Pessoa Através da Integração de Bases de Dados de Saúde. In: Encontro Regional de Matemática Aplicada e Computacional, 2007, Recife. Anais do Encontro Regional de Matemática Aplicada e Computacional, 2007. p. 1-6.
+Compartilhamento de Dados em um Sistema de RV: Uma Aplicação no Sistema CyberMed. In: Symposium on Virtual Reality, 2006, Belém. Proc. of Symposium on Virtual Reality, 2006. p. 421-432.
+SITEG ? Sistema Interativo de Treinamento em Exame Ginecológico. In: Symposium on Virtual Reality, 2006, Belém. Proc. of Symposium on Virtual Reality, 2006. p. 445-456.
+Incorporação de Deformação Física no Sistema CyberMed. In: Symposium on Virtual Reality, 2006, Belém. Proc. of Symposium on Virtual Reality, 2006. p. 1-4.
+Um Sistema de Visualização Imersivo e Interativo de Apoio ao Ensino de Classificação de Imagens. In: SVR2001- 4th SBC Symposium on Virtual Reality, 2001, Florianópolis/SC. Proceedings of the 4th SBC Symposium on Virtual Reality, 2001. p. 291-301.
+Regressão Linear - Sistema para Análise e Transformação de Funções Não Lineares. In: XIV Reunião Regional da Sociedade Brasileira de Matemática Aplicada e Computacional, 1991, Rio Claro - SP. XIV Reunião Regional da Sociedade Brasileira de Matemática Aplicada e Computacional, 1991. p. 171-172.
+Uso do Acelerômetro no Monitoramento do Sistema Estomatognático: Tecnologia Vestível em Motricidade Orofacial. In: XXVIII Congresso Brasileiro de Fonoaudiologia, 2020, São Paulo. Anais do XXVIII Congresso Brasileiro de Fonoaudiologia, 2020. v. 1.
+Organização do sistema de referência e contrarreferência do estado da Paraíba no contexto do 1o ciclo de avaliação externa do PMAQ-AB. In: 11o Congresso Internacional da Rede Unida, 2014, Fortaleza. Anais do 11o Congresso Internacional da Rede Unida, 2014.
+Estrutura de Visualização no Sistema CyberMed. In: Encontro Regional de Matemática Aplicada e Computacional, 2005, Natal. Resumos do Encontro Regional de Matemática Aplicada e Computacional, 2005.
+Sistema Triface de Projeção e Visualização Estereoscópica Anaglífica Baseada em um Único Computador. 2011.
+Sistema Tetraface de Projeção e Visualização Estereoscópica Anaglífica Baseada em um Único Computador. 2011.
+Sistema Biface de Projecao e Visualizacao Estereoscopica baseada em um Unico Computador. 2009.
+ANÁLISE DA PARTICIPAÇÃO DE UM SISTEMA DE CONVERSÃO DE ENERGIA EÓLICA BASEADO EM PMSG NO CONTROLE PRIMÁRIO DA REDE ELÉTRICA. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa, 2018.
+Projeto de Sistema de Controle Multivariável Baseado em Otimização por Colônia de Formigas. In: Simpósio Brasileiro de Sistemas Elétricos, 2014, Foz do Iguaçu. SBSE - Simpósio Brasileiro de Sistemas Elétricos, 2014.
+Projeto de Sistema de Controle Multivariável Baseado em Algoritmo Genético Otimizado. In: Congresso Brasileiro de Automática - CBA 2012, 2012, Campina Grande. XIX Congresso Brasileiro de Automática, 2012.
+Estimação de Estado e Índices de Qualidade em um Sistema de Geração Termelétrica. In: VII CBQEE - Conferência Brasileira sobre Qualidade da Energia Elétrica, 2007, Santos. VII CBQEE - Conferência Brasileira sobre Qualidade da Energia Elétrica, 2007.
+Avaliação da Estabilidade do Sistema Elétrico da SAELPA Contendo Unidades de Geração Eólica. In: VII INDUSCON ? Conferência Internacional de Aplicações Industriais, 2006, Recife. Proceedings of VII INDUSCON ? Conferência Internacional de Aplicações Industriais, 2006.
+Avaliação da Estabilidade do Sistema Elétrico da SAELPA contendo CGE?s através dos Fatores de Participação. In: SBSE 2006 - Simpósio Brasileiro de Sistemas Elétricos, 2006, Campina Grande. SBSE 2006 - Simpósio Brasileiro de Sistemas Elétricos, 2006.
+Estudos Elétricos em Regime Permanente e Dinâmico para Conexão de Centrais Eólicas no Sistema SAELPA. In: VI SBQEE ? Seminário Brasileiro sobre Qualidade de Energia, 2005, Belém. Anais do VI SBQEE ? Seminário Brasileiro sobre Qualidade de Energia, 2005.
+Simulação Dinâmica de Unidades de Geração Eólica Ligadas a um Sistema de Potência. In: XIV CBA ? Congresso Brasileiro de Automática, 2004, Gramado. XIV Congresso Brasileiro de Automática, 2004.
+SIMULAÇÃO DINÂMICA DE UNIDADES DE GERAÇÃO EÓLICA LIGADAS A UM SISTEMA DE POTÊNCIA. 2004. (Apresentação de Trabalho/Congresso).
+Análise do Impaco da Conexão da Usina Termelétrica Sinimbu ao Sistema CEAL. 2008.
+Análise do Impacto da Instalação de Geradores na Usina Termelétrica Campo Lindo sobre o Sistema Energisa. 2008.
+Análise do Impacto da Instalação de Geradores na Usina Termelétrica Marituba sobre o Sistema CEAL. 2007.
+Análise do Impacto da Conexão da Usina Termelétrica Caeté ao Sistema CEAL. 2007.
+Estudo do Impacto da Conexão de Unidades Geradoras Termelétricas ao Sistema CEAL. 2003.
+Estudo do Impacto da Conexão de Geração Distribuída Termelétrica ao Sistema ENERGIPE. 2003.
+Uso de Técnicas de Mineração de Dados na Identificação de Áreas Hidrologicamente Homogêneas no Estado da Paraíba. Revista Brasileira de Recursos Hídricos , v. 17, p. 65-75, 2012.
+Abordagem baseada em Continuous GRASP para clusterização de dados. In: XLVIII Simpósio Brasileiro de Pesquisa Operacional, 2016, Vitória-ES. Anais do XLVIII Simpósio Brasileiro de Pesquisa Operacional, 2016.
+Uma nova abordagem híbrida do algoritmo de otimização por enxame de partículas com busca local iterada para o problema de clusterização de dados. In: 11th Brazilian Congress on Computational Intelligence (CBIC), 2013, Porto de Galinhas, PE. Proceedings of the 11th Brazilian Congress on Computational Intelligence (CBIC), 2013.
+UMA ABORDAGEM MELHORADA DO ALGORITMO DE OTIMIZAÇÃO POR  ENXAME DE PARTÍCULAS PARA O PROBLEMA DE CLUSTERIZAÇÃO DE DADOS. In: XLV Simpósio Brasileiro de Pesquisa Operacional, 2013, Natal-RN. Anais do XLV Simpósio Brasileiro de Pesquisa Operacional, 2013.
+Metaheurísticas aplicadas à Geração de Carrossel no Sistema Brasileiro de TV Digital. In: WebMedia, 2008, Vila Velha - ES. Anais do WebMedia 2008, 2008.
+Otimização e Implementação de um sistema de alocação ótima de serviços públicos utilizando a metaheurístic GRASP. In: Simpósio Brasileiro de Pesquisa Operacional, 2010, Bento Gonçalves. Anais do XLII SBPO - Simpósio Brasileiro de Pesquisa Operacional, 2010.
+Compartilhamento de Dados de Pesquisa: uma análise temática de fatores intervenientes. BRAZILIAN JOURNAL OF INFORMATION SCIENCE , v. 18, p. 1, 2024.
+Fundamentos para publicação de dados na web. 1. ed. São Paulo: Comitê Gestor da Internet no Brasil, 2018. v. 1. 64p .
+Ecossistemas de Dados na Web: da teoria aos desafios. In: Maria Cláudia Cavalcanti. (Org.). Tópicos em Gerenciamento de Dados e Informação. 1ed.: , 2019, v. 1, p. 68-92.
+Publicação e Consumo de Dados na Web: Conceitos e Desafios. In: Carme S. Hara;  Fábio Porto; Eduardo Ogasawar. (Org.). Tópicos em Gerenciamento de Dados e Informações. xvied.Petrópolis: Simpósio	Brasileiro	de Banco	de Dados, 2015, v. , p. 39-.
+Compartilhamento de dados de pesquisa em saúde em tempos de crise: um framework proposto a partir da análise temática de fatores intervenientes. In: Iberian Conference on Information Systems and Technologies, 2024, Salamanca. Proceedings of 19th Iberian Conference on Information Systems and Technologies, 2024.
+Uma Análise da Evasão no Ensino Superior a partir de Dados Abertos. In: I Workshop de Trabalhos de Alunos de Graduação, 2019, Fortaleza. 34th Brazilian Symposium on Databases, 2019.
+Uma Análise da Inclusão Escolar de Pessoas com Deficiência a partir de Dados Governamentais Abertos.. In: I Workshop de Trabalhos de Alunos de Graduação, 2019, Fortaleza. 34th Brazilian Symposium on Databases, 2019.
+Refinamento Colaborativo de Dados na Web baseado em Social Coding. In: Simpósio Brasileiro de Banco de Dados, 2019, Fortaleza. 34th Brazilian Symposium on Databases, 2019.
+Governança em Ecossistema de Dados. In: Workshop de Teses e Dissertações em Banco de Dados, 2019, Fortaleza. 34th Brazilian Symposium on Databases, 2019.
+Iago: um Sistema Gerenciador de Dados na Web. In: DEMONSTRATION AND APPLICATIONS SESSION, 2019, Fortaleza. 34th Brazilian Symposium on Databases, 2019.
+Avaliação da Saúde de Ecossistemas de Dados. In: Workshop de Teses e Dissertações em Banco de Dados (WTDBD) realizado no Simpósio Brasileiro em Banco de Dados, 2018, Rio de Janeiro. XVII Workshop de Teses e Dissertações em Banco de Dados, 2018.
+Um Survey sobre Soluções para Publicação de Dados na Web sob a Perspectiva das Boas  Práticas do W3C. In: Simpósio Brasileiro de Banco de Dados, 2017, Uberlândia. Anais do 32º Simpósio Brasileiro de Banco de Dados, 2017. v. 1. p. 148-159.
+Datafeed: Uma Ferramenta para coleta e visualização de feedbacks sobre dados publicados na Web. In: Simpósio Brasileiro em Tecnologia da Informação, 2017, Jaboatão dos Guararapes. 4º Simpósio Brasileiro em Tecnologia da Informação, 2017.
+Desafios no Desenvolvimento de Mashups para Análise de Dados Abertos da Internet: Estudo de Caso a Partir de Dados do Consumidor. In: Simpósio Brasileiro em Tecnologia de Informação, 2017, Jaboatão dos Guararapes. 4º Simpósio Brasileiro em Tecnologia de Informação, 2017.
+Waldo: Serviço para Publicação e Descoberta de Produtores de Dados para Middleware de Cidades Inteligentes. In: XI Simpósio Brasileiro de Sistemas de Informação, 2015, Goiania. XI Simpósio Brasileiro de Sistemas de Informação, 2015.
+Análise de Desempenho de Catálogo de Produtores de Dados para Internet das Coisas baseado em SensorML e NoSQL. In: XIV Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2015, Recife. XIV Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2015.
+Um Survey sobre Plataformas de Mediação de Dados para Internet das Coisas. In: 42º Seminário Integrado de Software e Hardware, 2015, Recife. 42º Seminário Integrado de Software e Hardware, 2015.
+Portal Dados Abertos Brasil: Uma solução para catalogação dos portais de dados abertos brasileiros. In: Conferência Web.br, 2015, São Paulo. Anais da conferência Web.br, 2015.
+Aplicação OLAP para Segurança Pública: um Estudo de Caso a Partir de Dados Governamentais Abertos do Estado do Rio de Janeiro.. In: X Simpósio Brasileiro de Sistemas de Informação, 2014, Londrina. X Simpósio Brasileiro de Sistemas de Informação, 2014.
+Em Direção a uma Abordagem para Avaliação da Saúde de Ecossistemas de Dados. In: Simpósio Brasileiro de Banco de Dados, 2021, Rio de Janeiro. Simpósio Brasileiro de Banco de Dados 2021, 2021.
+Sistema de Integração de Lojas do Grupo Natal Segundo Uma Abordagem Distribuída. In: II Encontro Regional de Tecnologia e Negócios, 2010, Serra Talhada - PE. II Encontro Regional de Tecnologia e Negócios, 2013.
+Precisamos falar sobre Ecossistemas de Dados. 2019. (Apresentação de Trabalho/Conferência ou palestra).
+Minicurso de Introdução ao Sistema Operacional Linux. 2009. .
+Uma Ontologia de Domínio para Preservação de Privacidade em Dados Publicados pelo Governo Brasileiro. In: XII Brazilian Symposium on Information Systems, 2016, Florianópolis. Information Systems in the Cloud Computing Era. Florianópolis: Federal University of Santa Catarina (UFSC), 2016. p. 9-16.
+Recomendação de Conteúdos Multimídia em Ambientes de Convergência Digital: Uma Abordagem Baseada em Mineração de Dados e Web Semântica. In: XI Simpósio Brasileiro de Sistemas de Informação (SBSI 2015), 2015, Goiânia. Proceedings of the XI Simpósio Brasileiro de Sistemas de Informação (SBSI 2015), 2015. p. 103-110.
+Mining Knowledge TV: Uma Proposta de Integração de Dados no Ambiente da Knowledge TV. In: Conferência IADIS Ibero Americana of WWW/INTERNET 2010, 2010, Algarve. Proceedings of The Conferência IADIS Ibero Americana WWW/INTERNET 2010, 2010.
+Versão UNIX do Sistema de Biblioteca SICRET e Integração na Internet. In: V Encontro de Iniciação Científica, 1997, João Pessoa. Anais do V Encontro de Iniciação Científica da Paraíba, 1997.
+Sistema Baseado em Regras de Produção para Monitoramento Remoto Pervasivo. In: XII Congresso Brasileiro de Informática em Saúde, 2012, Curitiba. XII Congresso Brasileiro de Informática em Saúde, 2012.
+Um Estudo sobre Mineração de Dados e sua Utilização em Informática Médica. In: XXI Encontro de Iniciação Científica da UFPB (ENIC), 2013, João Pessoa. Resumos dos trabalhos do XXI Encontro de Iniciação Científica da UFPB. João Pessoa: Editora da UFPB, 2013. p. 746-746.
+DOODI: Uma API para Integração de Bancos de Dados Multidimensionais e Sistemas Dedutivos 2000 (Dissertacao Mestrado).
+DOODI: Uma API para Integração de Bancos de Dados Multidimensionais e Sistemas Dedutivos. 2000.
+Protótipo da Fase de Localização de uma Interface Visual para Bancos de Dados Temporais. 1998.
+Versão UNIX do Sistema de Biblioteca SICRET e Integrão na Internet. 1997.
+FlexTV ? Uma Proposta de Arquitetura de Middleware para o Sistema Brasileiro de TV Digital. Revista de Engenharia de Computação e Sistemas Digitais , Sâo Paulo, v. 2, p. 31-51, 2005. Citações: 7
+Sistema de videocolaboração para o museu interativo do TCE-PB baseado no modelo DA. In: XXIV Simpósio Brasileiro de Sistemas Multimídia e Web, 2018, Salvador. Anais Estendidos do XXIV Simpósio Brasileiro de Sistemas Multimídia e Web, 2018. p. 183-186.
+Just Java 2004 - Tecnologia Java e o Sistema Brasileiro de TV Digital. 2004. (Apresentação de Trabalho/Conferência ou palestra).
+Especialização de Servidores em um Sistema de Filas M/G/c. In: XXXV SBPO Simpósio Brasileiro de Pesquisa Operacional, 2003, Natal. Anais do XXXV SBPO, 2003. p. 2240-2246.
+Otimização de Um Sistema Hidrotérmico via Programação Geométrica. In: XXXIII SBPO Simpósio Brasileiro de Pesquisa Operacional, 2001, Campos do Jordão. Anais do XXXIII SBPO, 2001. p. 530-533.
+Modelagem e Otimização de um Sistema de Telecomunicação sem Fio. In: XXXIII SBPO Simpósio Brasileiro de Pesquisa Operacional, 2001, Campos do Jordão, 2001. p. 1322-1322.
+Análise de mobilidade urbana através de dados da rede de telefonia móvel celular. In: IV Simpósio Brasileiro de Computação Ubíqua e Pervasiva - SBCUP, 2012, Curitiba. Anais do Congresso Brasileiro de Computação CSBC, 2012. v. 1.
+Um Conjunto de Dados Extraído do Twitter para Análise de Sentimentos na Língua Portuguesa. In: STIL - Symposium in Information and Human Language Technology, 2019, Salvador - BA. STIL - Symposium in Information and Human Language Technology, 2019.
+Evasão de estudantes universitários: diagnóstico a partir de dados acadêmicos e socieconômicos. In: XXVII Simpósio Brasileiro de Informática na Educação, 2016, Uberlandia. org.crossref.xschema._1.Title@18352eee. p. 926.
+Avaliação da Audiodescrição Gerada por Sistema: Analise sob a Perspectiva do Usuario. In: Workshop de Teses e Dissertações do IHC (WTD-IHC), 2019, Vitória. Anais do Workshop de Teses e Dissertações do XVIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (WTD-IHC), 2019. v. Online. p. 126-129.
+Deaf Accessibility as a Service: uma Arquitetura Elástica e Tolerante a Falhas para o Sistema de Tradução VLIBRAS. In: XII Workshop de Computação em Grade e Aplicações (WCGA 2014), 2014, Florianopólis. Anais do XII Workshop de Computação em Grade e Aplicações (WCGA 2014), 2014. v. Online. p. 93-104.
+CineAD: Um Sistema de Geração Automática de Roteiros de Audiodescrição. In: IX Workshop de Teses e Dissertações WebMedia 2014, 2014, João Pessoa. Anais do IX Workshop de Teses e Dissertações WebMedia, 2014. p. 1-8.
+Implementação em FPGA de uma Arquitetura para Compressão de Dados baseada no Algoritmo de Huffman. In: XIII Encontro Nacional de Iniciação Científica, 2005, João Pessoa. XIII Encontro Nacional de Iniciação Científica, 2005. v. 1.
+Determinação de Quinino em Água Tônica Empregando um Sistema em Fluxo e um Espectrofluorímetro Lab Made. In: XII Encontro Nacional de Química Analítica, 2003, Sao Luís. XII Encontro Nacional de Química Analítica, 2003. p. 1-1.
+Sistema para Controle e Auditoria Automática de Veiculação de Propagandas em Sistemas de TV. 2010.
+Sistema para Controle e Auditoria Automático de Programação em Emissoras de TV Digita. 2010.
+Sistema para Automatização da Geração de Legendas em LIBRAS em Programas de TV Digital Interativa. 2009.
+Um Conjunto de Dados Extraído do Twitter para Análise de Sentimentos na Língua Portuguesa. In: Symposium in Information and Human Language Technology, 2019, Salvador. Symposium in Information and Human Language Technology, 2019.
+Um Sistema de Recomendação de Especialistas em Desenvolvimento Distribuído de Software: Requisitos, Projeto e Resultados Preliminares. In: Simpósio Brasileiro de Sistemas Colaborativos, 2009, Fortaleza - CE. VI Simpósio Brasileiro de Sistemas Colaborativos, 2009.
+COMPOSIÇÃO DE CENÁRIOS DE TREINAMENTO DE OPERADORES DO SISTEMA ELÉTRICO BASEADOS NO ESTUDO DE RELATÓRIOS DE OCORRÊNCIAS.. In: XXIII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2015, Foz do Iguaçu.. Anais do XXIII SNPTEE, 2015.
+Diplomacia de Dados e Segurança Energética: Prática do Grupo Focal no uso da Plataforma Enetrix. In: Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC), 2024, Brasília. Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC), IHC na Prática. Porto Alegre: Sociedade Brasileira de Computação, 2024.
+Avaliação da Audiodescrição Gerada por Sistema: Ana¿lise sob a Perspectiva do Usua¿rio. In: XVIII Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais, 2019, Vitória. Anais Estendidos do Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC), 2019. p. 126.

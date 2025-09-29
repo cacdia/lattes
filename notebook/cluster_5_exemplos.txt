@@ -1,0 +1,202 @@
+Sun SPOT, Um Dispositivo de Entrada e Saída para Aplicações de Realidade Virtual. In: CONNEPI, 2008, Fortaleza. CONNEPI. Fortaleza, 2008. v. 1. p. 112-118.
+Aplicação da Tecnologia Sun SPOT para Realidade Virtual. In: Simpósio Brasileiro de Realidade Virtual e Aumentada (SVR'2008), 2008, João Pessoa. Proceeding of the X Symposium on Virtual and Augmented Reality. João Pessoa: Sociedade Brasileira de Computação, 2008. v. 1. p. 263-265.
+Sistema de Controle de Ambientes Inteligentes Através de Realidade Virtual. In: CONNEPI, 2008, Fortaleza. CONNEPI. Fortaleza, 2008. v. 1. p. 104-110.
+Intelligent assessment based on Beta Regression for realistic training on medical simulators. Knowledge-Based Systems , v. 32, p. 3-8, 2012. Citações: 9 | 14
+Intelligent Assessment Based on Beta Regression for Realistic Training on Simulators. In: 9th International FLINS Conference on Foundations and Applications of Computational Intelligence (FLINS'2010), 2010, Chengdu. Proceedings of the 9th International FLINS Conference on Foundations and Applications of Computational Intelligence (FLINS'2010). New Jersey: World Scientific, 2010. p. 859-864.
+Virtual assistants for mobile interaction. In: the 30th Australian Conference, 2018, Melbourne. Proceedings of the 30th Australian Conference on Computer-Human Interaction  - OzCHI '18, 2018. v. 1. p. 568-571.
+Personality-Centered Agents for Virtual Computer Games. In: The Second Workshop on Intelligent Virtual Agents, 1999, Salford. The Second Workshop on Intelligent Virtual Agents, 1999.
+Personality Centered-Agents for Virtual Computer Games. In: Second Workshop on Intelligent Virtual Agents, 1999, Salford. Second Workshop on Intelligent Virtual Agents, 1999. p. 99-111.
+UFPB Virtual. 2014.
+Interação Háptica em sistemas de Realidade Virtual a baixo custo. In: XIII Encontro de Iniciação Científica, 2005, João Pessoa. Interação Háptica em sistemas de Realidade Virtual a baixo custo, 2005.
+A physiognomy Identification Mechanism for Learning Virtual Environments. In: IADIS International Conference e-Learning 2009, 2009, Algarve. Proceedings of IADIS International Conference e-Learning 2009. Algarve: IADIS Press, 2009. v. II. p. 40-44.
+Manual de funções em ambiente virtual (e-tetúlia).
+						2020. (Desenvolvimento de material didático ou instrucional - Manual).
+Laboratório Virtual de Métodos Numéricos.
+						2018. (Desenvolvimento de material didático ou instrucional - Materialdidático).
+A Framework for Development of Virtual Reality-Based Training Simulators. Studies in Health Technology and Informatics , v. 142, p. 174-176, 2009. Citações: 14
+Skills Assessment of Users in Medical Training Based on Virtual Reality Using Bayesian Networks. Lecture Notes in Computer Science. 1ed.Heidelberg: Springer Berlin Heidelberg, 2012, v. 7441, p. 805-812.
+Desenvolvimento Rápido de Aplicações de Realidade Virtual e Aumentada Utilizando Software Livre. In: Veronica Teichrieb; Fátima Nunes; Liliane Machado; Romero Tori. (Org.). Realidade Virtual e Aumentada na Prática. : , 2008, v. , p. 5-33.
+Online Assessment of Training in Virtual Reality Simulators Based on General Bayesian Networks. In: International Conference on Engineering and Computer Education, 2009, Buenos Aires. Proceedings of ICECE 2009, 2009.
+Desenvolvimento Rápido de Aplicações de Realidade Virtual Utilizando Software Livre (minicurso). 2008. (Apresentação de Trabalho/Simpósio).
+Desenvolvimento Rápido de Aplicações de Realidade Virtual Utilizando Software Livre. 2008. (Curso de curta duração ministrado/Outra).
+Implementação de Avaliadores de Treinamento para Simuladores Baseados em Realidade Virtual. 2008. (Relatório de pesquisa).
+Treinamento Médico por Simulação em Realidade Virtual. 2007. (Relatório de pesquisa).
+A New Double Weighted Fuzzy Hypergeometric Naive Bayes Network and its Application for User?s Assessment in Virtual Reality Simulators. INTERNATIONAL JOURNAL OF COMPUTATIONAL INTELLIGENCE SYSTEMS , v. 18, p. 90, 2025.
+Can We Trust Virtual Simulators for Health Education? A Study on Evaluation and Indicators of Accuracy and Reliability. Comunicações em Informática , v. 6, p. 5-8, 2022.
+A New Bayesian Network Based on Gaussian Naive Bayes with Fuzzy Parameters for Training Assessment in Virtual Simulators. International Journal of Fuzzy Systems , v. 23, p. 849-861, 2020. Citações: 4 | 3
+Incisions in virtual reality simulators: assessing user performance. RESEARCH ON BIOMEDICAL ENGINEERING , v. 35, p. 103-110, 2019.
+Avaliação de Incisão Cirúrgica em Simuladores com Realidade Virtual. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA , v. 23, p. 212, 2016.
+Assessment Model for Education in Health, based on Games and Virtual Environments. TEMPUS ACTAS DE SAÚDE COLETIVA , v. 10, p. 253-273, 2016.
+Psychomotor skills assessment in medical training based on virtual reality using a Weighted Possibilistic approach. Knowledge-Based Systems , v. 70, p. 97-102, 2014. Citações: 13 | 16
+Potencialidades da Educação em Saúde Baseada em Realidade Virtual. RECIIS - Revista Eletrônica de Comunicação, Informação & Inovação em Saúde , v. 7, p. a540, 2013.
+Performance profile of online training assessment based on virtual reality: Embedded System versus PC-only. Lecture Notes in Computer Science , v. 8259, p. 158-165, 2013. Citações: 1
+Assessment Systems for Training Based on Virtual Reality: A Comparison Study. SBC JOURNAL ON 3D INTERACTIVE SYSTEMS , v. 3, p. 1-p. 9-17, 2012.
+Online Assessment in Medical Simulators Based on Virtual Reality Using Fuzzy Gaussian Naive Bayes. Journal of Multiple-Valued Logic and Soft Computing , v. 18, p. 479-492, 2012. Citações: 2 | 9
+Intelligent assessment based on Beta Regression for realistic training on medical simulators. Knowledge-Based Systems , v. 32, p. 3-8, 2012. Citações: 9 | 14
+Skills Assessment of Users in Medical Training Based on Virtual Reality Using Bayesian Networks. Lecture Notes in Computer Science , v. 7441, p. 805-812, 2012.
+Serious games baseados em realidade virtual para educação médica. REVISTA BRASILEIRA DE EDUCAÇÃO MÉDICA (IMPRESSO) , v. 35, p. 254-262, 2011.
+Realidade Virtual para Saúde no Brasil: conceitos, desafios e oportunidades. Revista Brasileira de Engenharia Biomédica (Impresso) , v. 27, p. 243-258, 2011.
+Virtual Reality and Beyond: The LabTEVE at UFPB in Brazil. SBC Journal on 3D Interactive Systems , v. 2, p. 48-51, 2011.
+Integração de Sistemas de Rastreamento para o Desenvolvimento de Aplicações Baseadas em Realidade Virtual. Revista IEEE América Latina , v. 8, p. 714-721, 2010. Citações: 2 | 2
+A Framework for Development of Virtual Reality-Based Training Simulators. Studies in Health Technology and Informatics , v. 142, p. 174-176, 2009. Citações: 14
+Gaussian Naive Bayes for Online Training Assessment in Virtual Reality-Based Simulator. Mathware & Soft Computing , v. 16, p. 123-132, 2009.
+Fuzzy Bayes Rule for On-Line Training Assessment in Virtual Reality Simulators. Journal of Multiple-Valued Logic and Soft Computing , v. 14, p. 325-338, 2008. Citações: 6 | 6
+On-Line Assessment System for a Training System with Multiple Stages Based on Virtual Reality. Journal of Multiple-Valued Logic and Soft Computing , v. 14, p. 511-524, 2008. Citações: 5 | 4
+Multiple Assessment for Multiple Users in Virtual Reality Training Environments. Lecture Notes in Computer Science , v. 4756, p. 950-956, 2007. Citações: 10
+Evaluation System Based on EFuNN for Online Training Evaluation in Virtual Reality. Lecture Notes in Computer Science , Berlim, v. 3773, p. 778-785, 2005. Citações: 2 | 5
+Cybermed: Realidade Virtual para Ensino Médico. IFMBE PROCEEDINGS , v. 5, p. 573-576, 2004.
+Online Training Evaluation in Virtual Reality Simulators Using Gaussian Mixture Models. Studies in Health Technology and Informatics , Amsterdam, v. 94, p. 42-44, 2003. Citações: 3
+Realidade Virtual: Definições, Dispositivos e Aplicações. Revista Eletrônica de Iniciação Científica , http://www.sbc.org.br/reic, v. 2, n.1, p. 1-30, 2002.
+Virtual Reality Simulation of Pediatric Bone Marrow Harvest for Transplant. Medical and Pediatric Oncology (Cessou em 2003. Cont. ISSN 1545-5009 Pediatric Blood & Cancer) , v. 39, p. 282--, 2002.
+A Virtual Reality Simulator for Bone Marrow Harvest for Transplant. Studies in Health Technology and Informatics , Amsterdam/The Netherlands, v. 81, p. 293-297, 2001.
+Interactive Stereoscopic Full-Color Direct Volume Visualization for Virtual Reality in Medicine. Studies in Health Technology and Informatics , Amsterdam/The Netherlands, v. 81, p. 161-167, 2001. Citações: 6
+Tendências e Técnicas em Realidade Virtual e Aumentada. Porto Alebre: SBC, 2010. v. 1. 101p .
+Abordagens Práticas de Realidade Virtual e Aumentada. 1. ed. Porto Alegre: SBC, 2009. v. 1. 138p .
+Proceedings of X Symposium on Virtual and Augmented Reality. Porto Alegre: SBC, 2008. v. 1. 389p .
+Realidade Virtual e Aumentada na Prática. Porto Alegre: SBC, 2008. v. 1. 164p .
+Realidade Virtual - Fundamentos e Aplicações. 1. ed. Florianópolis: Visual Books, 2002. v. 1. 96p .
+Pesquisa e Desenvolvimento de Simuladores de Realidade Virtual para Saúde com Avaliação Automática do Desempenho do Usuário. In: Neir Paes; Liliane Machado; Ronei Moraes; Ana Maria Valença. (Org.). 10 Anos de Produção do Programa de Pós-Graduação em Modelos de Decisão e Saúde. 1ed.João Pessoa: UFPB, 2019, v. 1, p. 101-120.
+O Laboratório de Tecnologias para o Ensino Virtual e Estatística da UFPB. In: Neir Paes; Liliane Machado; Ronei Moraes; Ana Maria Valença. (Org.). 10 Anos de Produção do Programa de Pós Graduação em Modelos de Decisão e Saúde. 1ed.João Pessoa: UFPB, 2019, v. 1, p. 181-191.
+Serious Games and Virtual Reality for Education, Training and Health. In: Maria Manuela Cruz-Cunha (Ed.). (Org.). Handbook of Research on Serious Games as Educational, Business and Research Tools. : IGI Global, 2012, v. , p. 315-336.
+Virtual Reality Applied to Medicine. In: Feijóo, R. A.; Ziviani, A.; Blanco, P. J.. (Org.). Scientific Computing Applied to Medicine and Healthcare. 1ed.Petrópolis: INCT -MACC/LNCC, 2012, v. 1, p. 276-314.
+Intelligent Decision Making in Training Based on Virtual Reality. In: Da Ruan. (Org.). Computational Intelligence in Complex Decision Systems. Amsterdam, Paris: Atlantis Press, 2010, v. , p. 85-123.
+Dispositivos não-convencionais para interação e imersão em realidade virtual e aumentada. In: José R. F. Brega, Judith Kelner. (Org.). Interação em realidade virtual e realidade aumentada. Bauru: Canal 6, 2010, v. , p. 23-33.
+Desenvolvimento Rápido de Aplicações de Realidade Virtual e Aumentada Utilizando Software Livre. In: Veronica Teichrieb; Fátima Nunes; Liliane Machado; Romero Tori. (Org.). Realidade Virtual e Aumentada na Prática. Porto Alegre: SBC, 2008, v. , p. 5-33.
+Dispositivos Hápticos para Interfaces de Realidade Virtual e Aumentada. In: Claudio Kirner; Robson Siscoutto. (Org.). Realidade Virtual e Aumentada: Conceitos, Projeto e Aplicações. : , 2007, v. , p. 152-167.
+Realidade Virtual para Apoio a Procedimentos em Medicina. In: Romero Tori; Cláudio Kirner; Robson Siscoutto. (Org.). Fundamentos e Tecnologia de Realidade Virtual e Aumentada. : , 2006, v. , p. 358-365.
+Dispositivos de Entrada e Saída para Sistemas de Realidade Virtual. In: Romero Tori; Claudio Kirner; Robson Siscoutto. (Org.). Fundamentos e Tecnologia de Realidade Virtual e Aumentada. : , 2006, v. , p. 39-50.
+Aplicações da Realidade Virtual em Cirurgia. In: Claudio Kirner; Romero Tori. (Org.). Realidade Virtual - Conceitos e Tendências. São Paulo: SBC, 2004, v. 1, p. 271-276.
+Dispositivos Adequados à Realidade Virtual. In: Cláudio Kirner; Romero Tori. (Org.). Realidade Virtual - Conceitos e Tendências. São Paulo: SBC, 2004, v. 1, p. 21-32.
+Explorando objetos do dia a dia como guias táteis para simulação médica em realidade virtual. In: Simpósio Brasileiro de Computação Aplicada à Saúde, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2025), 2025. v. 1. p. 533-544.
+A New Fuzzy Hypergeometric Naive Bayes Network and Its Application for User's Assessment in Virtual Reality Simulators. In: 16th FLINS Conference on Computational Intelligence in Decision and Control & the 19th ISKE Conference on Intelligence Systems and Knowledge Engineering (FLINSISKE 2024), 2024, Madrid. Intelligent Management of Data and Information in Decision Making. Singapura: WORLD SCIENTIFIC, 2024. v. 14. p. 533-540.
+A new Fuzzy Trapezoidal Naive Bayes Network as basis for assessment in training based on virtual reality. In: Conference on Machine learning, Multi Agent and Cyber Physical Systems (FLINS 2022), 2023, Tianjin. Machine Learning, Multi Agent and Cyber Physical Systems, 2022. v. 13. p. 600-607.
+A Novel Fuzzy Geometric Naive Bayes Network for Online Skills Assessment in Training Based on Virtual Reality. In: 15th International Conference on Fuzzy Computation Theory and Applications, 2023, Rome. Proceedings of the 15th International Joint Conference on Computational Intelligence. Roma, 2023. v. 1. p. 395.
+Avaliando a presença espacial e autopresença em um jogo baseado em Realidade Virtual. In: XXII Symposium on Virtual and Augmented Reality, 2020, online. Anais do Workshop de Iniciação Científica do XXII Symposium on Virtual and Augmented Reality. Porto Alegre: Sociedade Brasileira de Computação - SBC, 2020. v. 22. p. 20-24.
+Online skills assessment in training based on virtual reality using a novel fuzzy triangular naive Bayes network. In: 14th International FLINS Conference (FLINS 2020), 2020, Cologne. Developments of Artificial Intelligence Technologies in Computation and Robotics. Singapura: World Scientific. v. 12. p. 446-454.
+Architectures of Collaborative Virtual Environments for Teamwork Training. In: 2017 19th Symposium on Virtual and Augmented Reality (SVR), 2017, Curitiba. 2017 19th Symposium on Virtual and Augmented Reality (SVR), 2017. p. 127-136.
+Study of Cutting Techniques in Simulations with Virtual Reality. In: 2015 XVII Symposium on Virtual and Augmented Reality (SVR), 2015, Sao Paulo. 2015 XVII Symposium on Virtual and Augmented Reality. p. 107-111.
+Performance Evaluation of Online Training Assessment on Embedded System. In: International FLINS Conference, 2014, João Pessoa/PB - Brazil. Decision Making and Soft Computing n- World Scientific Proceedings Series onb Computer Engineering and Informatics Science. Singapura: World Scientific, 2014. v. 9. p. 167-173.
+A Virtual Environment for Training and Assessment of Surgical Teams. In: 2013 XV Symposium on Virtual and Augmented Reality (SVR), 2013, Cuiabá - Mato Grosso. 2013 XV Symposium on Virtual and Augmented Reality. p. 17-26.
+Methods for Interactive Cut for a Virtual Reality Framework. In: 2013 XV Symposium on Virtual and Augmented Reality (SVR), 2013, Cuiabá - Mato Grosso. 2013 XV Symposium on Virtual and Augmented Reality. p. 256-259.
+Evaluation of Collaborative Activities in Medical Simulators Based on Virtual Reality. In: 2013 XV Symposium on Virtual and Augmented Reality (SVR), 2013, Cuiabá - Mato Grosso. 2013 XV Symposium on Virtual and Augmented Reality. p. 244-247.
+Shader Integration in a Virtual Reality Framework. In: 2013 XV Symposium on Virtual and Augmented Reality (SVR), 2013, Cuiabá - Mato Grosso. 2013 XV Symposium on Virtual and Augmented Reality. p. 276-279.
+Simultaneous assessment of teams in collaborative virtual environments using Fuzzy Naive Bayes. In: 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS), 2013, Edmonton. 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS). p. 1343-1348.
+Comparing evaluation methods based on neural networks for a virtual reality simulator for medical training. In: 2013 IEEE International Conference on Fuzzy Systems (FUZZIEEE), 2013, Hyderabad. 2013 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE). p. 1-8.
+Integração de uma Luva de Dados a um Framework de Realidade Virtual. In: Symposium on Virtual and Augmented Reality, 2012, Niterói. Proc of. XIV Simposium on Virtual and Augmented Reality (SVR 2012), 2012.
+Medical Skills Assessment in Training Based on Virtual Reality Using a Possibilistic Approach. In: International FLINS Conference, 2012, Istanbul. Uncertainty Modeling in Knowledge Engineering and Decision Making. New Jersey: World Scientific, 2012. v. 7. p. 339-345.
+A New Architecture for Assessment of Multiple Users in Collaborative Medical Training Environments Based on Virtual Reality. In: International FLINS Conference, 2012, Istanbul. Uncertainty Modeling in Knowledge Engineering and Decision Making. New Jersey: World Scientific, 2012. v. 7. p. 1119-1124.
+Análise Comparativa entre Métodos de Detecção de Colisão Broad em Ambientes de Realidade Virtual. In: Congresso de Matemática Aplicada e Computacional (CMAC - Nordeste), 2012, Natal. Anais do Congresso de Matemática Aplicada e Computacional (CMAC - Nordeste), 2012. p. 4p.
+Adding Tactile Information to Remote & Virtual Labs. In: Global Engineering Education Conference (EDUCON), 2011, Amman. Proc. of IEEE Global Engineering Education Conference, 2011. p. 1120-1124.
+An Online Training Assessment Based on Naive Bayes Network Modeled by Gaussian Mixture Models for Medical Simulators. In: VII International Conference on Engineering and Computer Education - ICECE'2011, 2011, Guimarães. Proc of VII International Conference on Engineering and Computer Education, 2011.
+Possibility and Necessity Measures for Medical Skills Assessment Based on Virtual Reality. In: VII International Conference on Engineering and Computer Education - ICECE'2011, 2011, Guimarães. Proc. of VII International Conference on Engineering and Computer Education, 2011.
+Assessment of collaborative medical training based on virtual reality using Possibilistic Networks. In: Safety Health and Environment World Congress (SHEWC), 2011, Santos. Proc. of XI Safety, Health and Environment World Congress, 2011.
+INTELLIGENT ASSESSMENT BASED ON BETA REGRESSION FOR REALISTIC TRAINING ON SIMULATORS. In: Computational Intelligence  Foundations and Applications  9th International FLINS Conference, 2010, Emei. Computational Intelligence - Foundations and Applications - Proceedings of the 9th International FLINS Conference. Singapore: World Scientific Publishing Co. Pte. Ltd.. v. 4. p. 859-864.
+FUZZY GAUSSIAN NAIVE BAYES APPLIED TO ONLINE ASSESSMENT IN VIRTUAL REALITY SIMULATORS. In: Computational Intelligence  Foundations and Applications  9th International FLINS Conference, 2010, Emei. Computational Intelligence - Foundations and Applications - Proceedings of the 9th International FLINS Conference. Singapore: World Scientific Publishing Co. Pte. Ltd.. v. 4. p. 243-248.
+Interactive Collaboration for Virtual Reality Systems related to Medical Education and Training. In: 6th International Conference on Technology and Medical Sciences, 2010, Porto. Proc of 6th International Conference on Technology and Medical Sciences, 2010.
+Colaboração Interativa para Sistemas de Realidade Virtual voltados ao Ensino e Treinamento Médico. In: Congresso Brasileiro de Informática em Saúde (CBIS 2010), 2010, Porto de Galinhas. Anais do Congresso Brasileiro de Informática em Saúde (CBIS 2010), 2010.
+Programação Visual para um Framework de Desenvolvimento de Aplicações Médicas Baseadas em Realidade Virtual. In: Congresso Brasileiro de Informática em Saúde (CBIS 2010), 2010, Porto de Galinhas. Anais do Congresso Brasileiro de Informática em Saúde (CBIS 2010), 2010.
+Comparison among Bayesian Networks for online training assessment based on virtual reality. In: Congresso Brasileiro de Sistemas Fuzzy, 2010, Sorocaba. Anais do Congresso Brasileiro de Sistemas Fuzzy, 2010.
+Continuous Evaluation in Training Systems Based on Virtual Reality Using Fuzzy Rule Based Expert Systems. In: International Conference on Engineering and Computer Education, 2009, Buenos Aires. Proceedings of ICECE 2009, 2009.
+Online Assessment of Training in Virtual Reality Simulators Based on General Bayesian Networks. In: International Conference on Engineering and Computer Education, 2009, Buenos Aires. Proceedings of ICECE 2009, 2009.
+Um Sistema Baseado em Construtivismo e Realidade Virtual para Apoio ao Ensino de Classificadores de Imagens. In: International Conference on Engineering and Computer Education, 2009, Buenos Aires. Proceedings of ICECE 2009, 2009.
+Fuzzy Continuous Evaluation in Training Systems Based on Virtual Reality. In: IFSA World Congress, 2009, Lisboa. Proceedings of 2009 IFSA World Congress, 2009. p. 102-107.
+Integração de Rastreadores Magnéticos a um Framework para Desenvolvimento de Sistemas de Realidade Virtual. In: XXXV Latin American Informatics Conference (CLEI2009), 2009, Pelotas. Congresso Latino Americano de informática, 2009.
+Another Approach for Fuzzy Naive Bayes Applied on Online Training Assessment in Virtual Reality Simulators. In: Safety, Health and Environmental World Congress (SHEWC'2009), 2009, Mongaguá. Proccedings of Safety, Health and Environmental World Congress. São Paulo: Council of Researches in Education and Sciences, 2009. p. 62-66.
+Online Training Evaluation in Virtual Reality Simulators Using Possibilistic Networks. In: Safety, Health and Environmental World Congress (SHEWC'2009), 2009, Mongaguá. Proceedings of Safety, Health and Environmental World Congress. São Paulo: Council of Researches in Education and Sciences, 2009. p. 67-71.
+Realidade Virtual Aplicada ao Ensino de Medicina: Taxonomia, Desafios e Resultados. In: Workshop de Realidade Virtual e Aumentada, 2009, Santos. Anais do Workshop de Realidade Virtual e Aumentada, 2009.
+An Interface Based on Hyper Reality for Virtual Mockups. In: International Conference on Engineering  and Technology Education (Intertech 2008), 2008, Santos. Proceedings of International Conference on Engineering and Technology Education, 2008. v. 1. p. 150-154.
+Online Training Assessment in Virtual Reality Simulators Based on Fuzzy Naive Bayes. In: International Conference on Engineering  and Technology Education (Intertech 2008), 2008, Santos. Proceedings of International Conference on Engineering and Technology Education, 2008. v. 1. p. 145-149.
+Using Embedded Systems to Improve Performance of Assessment in Virtual Reality Training Environments. In: International Conference on Engineering  and Technology Education (Intertech 2008), 2008, Santos. Proceedings of International Conference on Technology and Engineering Education. Santos: COPEC, 2008. v. 1. p. 140-144.
+Online Training Assessment in Virtual Reality Simulators Based on Gaussian Naive Bayes. In: 8th International FLINS Conference on Computational Intelligence in Decision and Control, 2008, Madri. World Scientific Proceedings Series on Computer Engineering and Information Science. Singapore: World Scientific, 2008. v. 1. p. 1147-1152.
+A Modified Naive Bayes to Online Training Assessment in Virtual Reality Simulator. In: International Conference on Intelligent System and Knowledge Engineering, 2008, Xiamen. ISKE2008 Proceedings, 2008.
+Performance Analysis of Assessment Using Maximum Likelihood for Virtual Reality Systems. In: International Conference on Engineering and Computer Education, 2007, Santos. Proc of International Conference on Engineering and Computer Education, 2007. p. 306-310.
+Multiple Assessment for Multiple Users in Training Based in Virtual Reality. In: International Conference on Engineering and Computer Education, 2007, Santos. Proc of International Conference on Engineering and Computer Education, 2007. p. 264-268.
+Assessment Based on Naive Bayes for Training Based on Virtual Reality. In: International Conference on Engineering and Computer Education, 2007, Santos. Proc of International Conference on Engineering and Computer Education, 2007. p. 269-273.
+CybAssess: A Class for On-line Assessment of Users in Virtual Reality Systems. In: Symposium on Virtual and Augmented Reality, 2007, Petrópolis. Proceedings of IX Symposium on Virtual and Augmented Reality, 2007. p. 44-50.
+CybHaptics: A Class for Haptics Support in Virtual Reality Systems. In: Symposium on Virtual and Augmented Reality, 2007, Petrópolis. Proceddings do IX Symposium on Virtual and Augmented Reality, 2007. p. 306-308.
+A Fuzzy Bayes Evaluator for On-line Training Evaluation Based on Virtual Reality. In: World Congress on Computer Science, Engineering and Technology Education, 2006, Santos. Proceedings of WCCSETE'2006, 2006. p. 399-403.
+Adjusting Deformation Methods for Virtual Reality Systems. In: World Congress on Computer Science, Engineering and Technology Education, 2006, Santos. Proceedings of WCCSETE'2006, 2006. p. 409-413.
+Unifying Data Structures for Virtual Reality Applications. In: World Congress on Computer Science, Engineering and Technology Education, 2006, Santos. Proceedings of WCCSETE'2006, 2006. p. 404-408.
+A Virtual Reality Based Simulator for Gynecologic Exam Training. In: Information Technology based Higher Education and Training, 2006, Sydney. Proc of Information Technology based Higher Education and Training, 2006.
+AnatomI 3D: Um Atlas Digital Baseado em Realidade Virtual para Ensino de Medicina. In: Symposium on Virtual Reality, 2006, Belém. Proc. of Symposium on Virtual Reality, 2006. p. 3-14.
+Online Training Evaluation in Virtual Reality Simulators Using Fuzzy Bayes Rule. In: 7th International FLINS Conference on Applied Artificial Intelligence, 2006, Genova. Applied Artificial Intelligence, 2006. p. 791-798.
+Assessment in Gynecological Procedures in Simulators Based on Virtual Reality. In: 7th International FLINS Conference on Applied Artificial Intelligence, 2006, Genova. Applied Artificial Intelligence. New Jersey: World Scientific, 2006. p. 799-804.
+Continuous Evaluation in Training Systems Based on Virtual Reality. In: GCETE - Global Congress on Engineering and Technology Education, 2005, Santos. Proceedings of GCETE 2005, 2005. p. 1048-1051.
+Maximum Likelihood for On-line Evaluation of Training Based on Virtual Reality. In: GCETE - Global Congress on Engineering and Technology Education, 2005, Santos. Proceedings of GCETE 2005, 2005. p. 299-302.
+Teaching Human Body Structures Using Virtual Reality. In: World Congress on Engineering and Technology Education, 2004, Santos. Proceedings of the World Congress on Engineering and Technology Education, 2004. p. 153-156.
+Neural Networks for Online Training Evaluation in Virtual Reality Simulators. In: World Congress on Engineering and Technology Education, 2004, Santos. Proceedings of the World Congress on Engineering and Technology Education, 2004. p. 157-160.
+A Concept of Low-Cost Virtual Wall for Virtual Reality Systems to Educational Purposes. In: World Congress on Engineering and Technology Education, 2004, Santos. Proceedings of the World Congress on Engineering and Technology Education, 2004. p. 161-165.
+Online Training Evaluation in Virtual Reality Simulators Using Evolving Fuzzy Neural Networks. In: 6th International FLINS Conference, 2004, Blankenberge. Applied Computational Intelligence. New Jersey: World Scientific, 2004. p. 314-317.
+Gaussian Mixture Models and Relaxation Labeling  for Online Evaluation of Training in Virtual Reality Simulators. In: International Conference on Engineering and Computer Education, 2003, São Vicente/Santos. Proceedings of IInternational Conference on Engineering and Computer Education, 2003. p. 1-8.
+Fuzzy Gaussian Mixture Models for Online Training Evaluation  in Virtual Reality Simulators. In: International Conference on Fuzzy Information Processing - Theory and Applications, 2003, Beijing. Proceedings of the International Conference on Fuzzy Information Processing Theories and Applications, 2003. v. II. p. 733-740.
+An Online Evaluation of Training in Virtual Reality Simulators Using Gaussian Mixture Models and Fuzzy Relaxation Labeling. In: 6th IASTED International Conference on Computers and Advanced Technology in Education, 2003, Rodes. Proceedings of the IASTED International Conference - Computers and Advanced Technology in Education. Anaheim: Acta Press, 2003. p. 192-196.
+Fuzzy Hidden Markov Models for Online Training Evaluation in Virtual Reality Simulators. In: Fuzzy Logic and Intelligent Technologies in Nuclear Science, 2002, Gent. Computational Intelligent Systems for Applied Research. New Jersey - USA: World Scientific, 2002. p. 296-303.
+Desenvolvimento e Avaliação de um Simulador de Procedimentos Médicos Invasivos Baseado em Realidade Virtual para Treinamento de Transplante de Medula Óssea. In: V Symposium on Virtual Reality, 2002, Fortaleza. Proceedings of SVR 2002, 2002. p. 416-418.
+Hidden Markov Models for Learning Evaluation in Virtual Reality Simulators. In: 5th IASTED International Conference on Computers and Advanced Technology in Education, 2002, Cancun. Proceedings of the IASTED International Conference - Computers and Advanced Technology in Education. Anaheim: ACTA Press, 2002. p. 405-409.
+Avaliação Fuzzy para um Sistema de Realidade Virtual para Treinamento Médico. In: Encontro Nacional de Inteligência Artificial, 2001, Fortaleza/CE. Anais do Encontro Nacional de Inteligência Artificial, 2001. p. 254-254.
+A Virtual Reality Simulator for Bone Marrow Harvest for Transplant. In: 3rd Brazilian Workshop on Virtual Reality, 2000, Gramado/RS. Proceedings of the 3rd Workshop on Virtual Reality, 2000. p. 25-31.
+Low-Cost Interactive Stereoscopic Full Direct Volume Visualization of the Visible Human Dataset for Virtual reality Medical Applications. In: 3rd Brazilian Workshop on Virtual Reality, 2000, Gramado/RS. Proceedings of the 3rd Workshop on Virtual Reality, 2000. p. 33-40.
+Virtual Reality for Medical Training. In: Anais Estendidos do Simpósio de Realidade Virtual e Aumentada, 2024, Brasil. Anais Estendidos do XXVI Simpósio de Realidade Virtual e Aumentada (SVR Estendido 2024), 2024. v. 1. p. 15-16.
+Ferramentas de Realidade Virtual para Profissionais da Área Médica. In: Symposium on Virtual and Augmented Reality 2011, 2011. Proc. of Symposium on Virtual and Augmented Reality 2011, 2011.
+Calibracao de Propriedades Materiais para Incorporacao de Toque em Sistemas de Realidade Virtual. In: Workshop de Realidade Virtual e Aumentada - WRVA'2009, 2009, Santos/SP. Anais do Workshop de Realidade Virtual e Aumentada, 2009.
+Representação do Sítio Arqueológico da Pedra de Ingá com Realidade Virtual. In: Workshop de Realidade Virtual e Aumentada - WRVA'2009, 2009, Santos/SP. Anaia do Workshop de Realidade Virtual e Aumentada, 2009. p. 4p.
+Utilizacao de Rastreadores Magneticos no Desenvolvimento de Aplicacoes com Realidade Virtual para a Educacao. In: Workshop de Realidade Virtual e Aumentada - WRVA'2009, 2009, Santos. Anais do Workshop de Realidade Virtual e Aumentada, 2009.
+Training Evaluation Based on Virtual Reality Using Fuzzy Bayes Rule. In: Simpósio Nacional de Probabilidade e Estatística, 2008, São Pedro. Livro de Resumos Simpósio Nacional de Probabilidade e Estatística, 2008.
+Fuzzy Naive Bayes for Skill Assessment in a Virtual Medical Training. In: Simpósio Nacional de Probabilidade e Estatística, 2008, São Pedro. Livro de Resumos do Simpósio Nacional de Probabilidade e Estatística, 2008.
+CybView - Uma Classe para Visualização Interativa e Estereoscópica para Sistemas de Realidade Virtual. In: Sibgrapi'2006 - Simpósio Brasileiro de Computação Gráfica, Processamento de Imagens e Visão Computacional, 2006, Manaus. Anais do Workshop de Iniciação Científica, 2006.
+Um Estudo Comparativo de Ferramentas para a Criação de Jogos Educacionais Baseados em Realidade Virtual. In: Workshop de Aplicações em Realidade Virtual, 2006, Recife. Proceedings do II Workshop de Aplicações em Realidade Virtual, 2006.
+Métodos de Deformação em Sistemas de Realidade Virtual para Medicina. In: Encontro Regional de Matemática Aplicada e Computacional, 2005, Natal. Rsumos do Encontro Regional de Matemática Aplicada e Computacional, 2005.
+VirtWall: A Concept of Low-Cost Virtual Wall for Immersion in Virtual Reality. In: Symposium on Virtual Reality, 2003, Ribeirão Preto. Proceedings of the VI Symposium on Virtual Reality, 2003. p. 383-385.
+Aplicações da Realidade Virtual no Ensino de Estatística. In: 36a Reunião Regional da Associação Brasileira de Estatística, 2003, João Pessoa. Anais da 36a Reunião Regional da Associação Brasileira de Estatística, 2003. p. 74-76.
+Avaliação On-Line de Treinamento em Simuladores de Realidade Virtual Usando Modelos de Mistura Gaussiana. In: 36a Reunião Regional da Associação Brasileira de Estatística, 2003, João Pessoa. Anais da 36a Reunião Regional da Associação Brasileira de Estatística, 2003. p. 31-33.
+Tecnologias em Sistemas Interativos e Inteligentes para Ensino Virtual. In: II Congresso Brasileiro de Informática na Educação (CBIE 2013) - Workshops, 2013, Campinas. Anais do II Congresso Brasileiro de Informática na Educação, 2013. v. 1. p. 388-388.
+EFuNN for On-line Evaluation of Training in Virtual Reality. In: Simpósio Nacional de Probabilidade e Estatística, 2004, Caxambu. Resumos do 16o Simpósio Nacional de Probabilidade e Estatística, 2004. p. 256-256.
+Avaliação Continuada para Treinamentos Baseados em Realidade Virtual. In: Encontro Regional de Métodos Estatísticos para Melhoria da Qualidade, 2004, Natal. Resumos do Encontro Regional de Métodos Estatísticos para Melhoria da Qualidade, 2004.
+Realidade Virtual Aplicada ao Ensino de Estatística. In: 16o Simpósio Nacional de Probabilidade e Estatística, 2004, Caxambu. Anais do 16o SINAPE, 2004. p. 438.
+Aplicações da Realidade Virtual no Ensino dentro do LabTEVE. In: Encontro Regional de Matemática Aplicada e Computacional, 2003, João Pessoa. Anais do Encontro Regional de Matemática Aplicada e Computacional, 2003. p. 1-4.
+Sistema de Projeção Estéreo de Baixo Custo para Sistemas de Realidade Virtual. In: Encontro Regional de Matemática Aplicada e Computacional, 2003, João Pessoa. Anais do Encontro Regional de Matemática Aplicada e Computacional, 2003. p. 8-10.
+Modelos de Mistura Gaussiana e Métodos de Relaxação para Avaliação Online de Treinamento em Simuladores de Realidade Virtual. In: Encontro Regional de Matemática Aplicada e Computacional, 2003, João Pessoa. Anais do Encontro Regional de Matemática Aplicada e Computacional, 2003. p. 3-6.
+A Realidade Virtual Aplicada na Visualização Interativa das Estruturas do Corpo Humano. In: Symposium on Virtual Reality, 2003, Ribeirão Preto. Proceedings of the Symposium on Virtual Reality, 2003. p. 413-413.
+Usando Cadeias de Markov Escondidas Contínuas na Avaliação do Aprendizado em Sistemas Baseados em Realidade Virtual. In: ll Encontro Regional de Matemática Aplicada e Computacional, 2002, Natal. Anais do ll Encontro Regional de Matemática Aplicada e Computacional, 2002. p. 13-16.
+LabTEVE: Uma Rede Dedicada ao Ensino Virtual de Estatística. In: 15o SINAPE - Simpósio Nacional de Probabilidade e Estatística, 2002, Águas de Lindóia. Resumos 15o SINAPE, 2002. v. 2. p. 374-374.
+Um Sistema de Visualização em Realidade Virtual em Apoio ao Ensino de Classificação de Imagens. In: 15o SINAPE - Simpósio Nacional de Probabilidade e Estatística, 2002, Águas de Lindóia. Resumos 15o SINAPE, 2002. v. 2. p. 375-375.
+Online Training Evaluation in Virtual Reality Worlds Using Hidden Markov Models. In: 15o SINAPE - Simpósio Nacional de Probabilidade e Estatística, 2002, Águas de Lindóia. Resumos do 15o SINAPE. v. 1. p. 205.
+Realidade Virtual Aplicada à Saúde. 2020. (Apresentação de Trabalho/Conferência ou palestra).
+Realidade Virtual: da ficção à realidade. 2019. (Apresentação de Trabalho/Conferência ou palestra).
+Realidade Virtual no Treinamento de Alunos e Profissionais da Saúde. 2019. (Apresentação de Trabalho/Conferência ou palestra).
+CyberMed - Bibliotecas para Desenvolvimento de Simuladores Médicos baseados em Realidade Virtual. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+Jogos e Ambientes de Realidade Virtual. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+Novas Tecnologias Baseadas em Realidade Virtual e Jogos para a Educação em Engenharia: Usos e Oportunidades. 2010. (Apresentação de Trabalho/Seminário).
+Tecnologias e Realidade Virtual para Treinamento. 2010. (Apresentação de Trabalho/Seminário).
+Realidade Virtual na Engenharia. 2009. (Apresentação de Trabalho/Conferência ou palestra).
+Geoprocessamento e Realidade Virtual. 2005. (Apresentação de Trabalho/Conferência ou palestra).
+Realidade Virtual. 2004. (Apresentação de Trabalho/Conferência ou palestra).
+Realidade Virtual e Aplicação em Medicina. 2001. (Apresentação de Trabalho/Conferência ou palestra).
+Realidade Virtual. 2001. (Apresentação de Trabalho/Conferência ou palestra).
+Realidade Virtual. 1996. (Apresentação de Trabalho/Conferência ou palestra).
+A Realidade Virtual no Modelamento e Simulação de Procedimentos Invasivos em Oncologia Pediátrica: Um Estudo de Caso no Transplante de Medula Óssea 2003 (tese de doutorado).
+Realidade Virtual: Definições, Dispositivos e Aplicações.
+						São Carlos:
+								ICMC-USP,  2002 (notas didáticas).
+A Realidade Virtual em Aplicações Científicas.
+						São José dos Campos:
+								INPE,  1997 (Dissertação de Mestrado).
+Conceitos Básicos da Realidade Virtual.
+						São José dos Campos:
+								INPE,  1995 (Relatório Técnico).
+Simposio Latinoamericano sobre Computación Gráfica, Realidad Virtual y Procesamiento de Imágenes. 2011.
+MedulaStereo - Um sistema de treinamento em coleta de medula óssea baseado em realidade virtual. 2002.
+VirtWall: Uma Plataforma Imersiva e Interativa de Baixo Custo para Realidade Virtual. 2004.
+Revisora - International Conference on Virtual Rehabilitation 2019. 2019.
+Jogos Serios e Realidade Virtual. 2024.
+						
+							(Programa de rádio ou TV/Entrevista).
+Realidade Virtual e Aumentada. 2014.
+						
+							(Programa de rádio ou TV/Entrevista).
+Caverna Virtual. 2001.
+						
+							(Programa de rádio ou TV/Entrevista).
+A Caverna Virtual. 2001.
+						
+							(Programa de rádio ou TV/Entrevista).
