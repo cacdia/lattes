@@ -82,24 +82,6 @@ def remove_outliers(data):
     return data[(data >= lower_bound) & (data <= upper_bound)]
 
 
-def normalizar_lab(nome):
-    if not nome:
-        return ""
-    nome = nome.strip().upper()
-    mapeamento = {
-        "LAVID": "LAVID",
-        "LAVI": "LAVID",
-        "LAViD": "LAVID",
-        "ARIA": "ARIA",
-    }
-    return mapeamento.get(nome, nome)
-
-
-def abreviar_nome(nome):
-    partes = nome.split()
-    return " ".join(partes[:2]) if len(partes) >= 2 else nome
-
-
 def preprocess_text(text, stopwords):
     import string
     import re
@@ -116,16 +98,3 @@ def preprocess_text(text, stopwords):
     tokens = text.split()
     tokens = [word for word in tokens if word not in stopwords]
     return " ".join(tokens)
-
-
-def scale_size(v, mn, mx, min_size=24, max_size=140):
-    if mx == mn:
-        return (min_size + max_size) / 2
-    # escala linear
-    return float(min_size + (v - mn) / (mx - mn) * (max_size - min_size))
-
-
-def scale_w(w, wmin, wmax, min_w=1.0, max_w=10.0):
-    if wmax == wmin:
-        return (min_w + max_w) / 2
-    return float(min_w + (w - wmin) / (wmax - wmin) * (max_w - min_w))

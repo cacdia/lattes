@@ -1491,6 +1491,16 @@ wheels = [
 ]
 
 [[package]]
+name = "python-louvain"
+version = "0.16"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "networkx" },
+    { name = "numpy" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/7c/0d/8787b021d52eb8764c0bb18ab95f720cf554902044c6a5cb1865daf45763/python-louvain-0.16.tar.gz", hash = "sha256:b7ba2df5002fd28d3ee789a49532baad11fe648e4f2117cf0798e7520a1da56b", size = 204641, upload-time = "2022-01-29T15:53:03.532Z" }
+
+[[package]]
 name = "python-starter"
 version = "0.0.0"
 source = { virtual = "." }
@@ -1503,6 +1513,7 @@ dependencies = [
     { name = "pandas" },
     { name = "playwright" },
     { name = "plotly" },
+    { name = "python-louvain" },
     { name = "pyvis" },
     { name = "scikit-learn" },
     { name = "seaborn" },
@@ -1525,6 +1536,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.3.1" },
     { name = "playwright", specifier = ">=1.54.0" },
     { name = "plotly", specifier = ">=6.3.0" },
+    { name = "python-louvain", specifier = ">=0.16" },
     { name = "pyvis", specifier = ">=0.3.2" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
     { name = "seaborn", specifier = ">=0.13.2" },

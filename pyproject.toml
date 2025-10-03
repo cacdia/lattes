@@ -13,6 +13,7 @@ dependencies = [
     "pandas>=2.3.1",
     "playwright>=1.54.0",
     "plotly>=6.3.0",
+    "python-louvain>=0.16",
     "pyvis>=0.3.2",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
